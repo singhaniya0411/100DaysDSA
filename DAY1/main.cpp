@@ -1,3 +1,20 @@
+/*
+    Title: Find the Second Largest Element in an Array
+    Description:
+        This program finds the second largest distinct element in an integer array.
+        If the array has fewer than two elements or there is no second largest distinct element, it returns -1.
+
+    Input:
+        - The size of the array (n)
+        - Array elements (n integers)
+
+    Output:
+        - The second largest distinct element in the array, or -1 if not applicable.
+
+    Author: Vishal Singhaniya
+*/
+
+
 #include<iostream>
 #include<climits>
 using namespace std;
