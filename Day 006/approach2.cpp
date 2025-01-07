@@ -17,7 +17,6 @@
 
     Author: Vishal Singhaniya
 */
-
 #include <iostream>
 using namespace std;
 
