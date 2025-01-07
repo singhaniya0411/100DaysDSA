@@ -5,7 +5,7 @@
         A majority element is an element that appears more than n/3 times
         in the array, where n is the size of the array. The implementation
         uses the Boyer-Moore Voting Algorithm, which runs in O(n) time
-        and uses O(1) additional space.
+        and uses O(1) additional space .
 
     Input:
         - Size of the array (n)
