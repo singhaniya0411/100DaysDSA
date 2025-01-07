@@ -17,6 +17,7 @@
     Author: Vishal Singhaniya
 */
 
+
 #include<iostream>
 #include<unordered_map>
 using namespace std;
@@ -24,7 +25,6 @@ using namespace std;
 // Function to find and print majority elements using a hash map
 void find_majority(int arr[], int n) {
     unordered_map<int, int> occurence; // Hash map to store element counts
-
     // Count occurrences of each element
     for (int i = 0; i < n; i++) {
         if (occurence.find(arr[i]) != occurence.end()) {
