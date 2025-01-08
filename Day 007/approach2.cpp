@@ -1,5 +1,6 @@
 /*
-    Title: Maximum Profit from Stock Prices
+    Title: 
+    Maximum Profit from Stock Prices
     Description:
         This program calculates the maximum profit that can be obtained 
         by performing multiple buy-sell transactions on given stock prices.
