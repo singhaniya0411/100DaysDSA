@@ -1,5 +1,5 @@
 /*
-    Title: Find Majority Elements in an Array
+    Title:Find Majority Elements in an Array
     Description:
         This program finds all the majority elements in an array.
         A majority element is an element that appears more than n/3 times
