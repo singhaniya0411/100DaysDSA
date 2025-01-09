@@ -1,5 +1,6 @@
 /*
-    Title: Maximum Profit from Stock Prices (Single Transaction)
+    Title: 
+        Maximum Profit from Stock Prices (Single Transaction)
     Description:
         This program calculates the maximum profit that can be obtained 
         by performing a single buy-sell transaction on given stock prices.
