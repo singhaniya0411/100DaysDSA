@@ -56,6 +56,16 @@ int main() {
     }
 
     // Input: Array elements
+
+    int arr[n];
+    cout << "Enter the array elements: ";
+    for (int i = 0; i < n; i++) {
+        cin >> arr[i];
+    }
+
+    // Output: Second largest element
+
+
     
 
 
