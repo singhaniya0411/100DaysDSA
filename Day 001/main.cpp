@@ -43,6 +43,19 @@ int second_largest(int arr[], int n) {
     // If second largest is not updated, return -1
     return second_largest_element == INT_MIN ? -1 : second_largest_element;
 }
+int main() {
+    int n;
 
+    // Input: Size of the array
+    cout << "Enter the value of n: ";
+    cin >> n;
+
+    if (n <= 0) { // Handle invalid array size
+        cout << "Invalid size. Array size must be greater than 0.\n";
+        return 1;
+    }
+
+    // Input: Array elements
+    
 
 
