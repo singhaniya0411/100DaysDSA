@@ -64,6 +64,15 @@ int main() {
     }
 
     // Output: Second largest element
+    int result = second_largest(arr, n);
+    if (result == -1) {
+        cout << "The array does not have a second largest element.\n";
+    } else {
+        cout << "The second largest element in the array is: " << result << "\n";
+    }
+
+    return 0;
+}
 
 
     
