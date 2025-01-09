@@ -9,6 +9,7 @@
 
     Input:
         - Array of stock prices (size n)
+        
     Output:
         - The maximum profit that can be obtained with one transaction
 
