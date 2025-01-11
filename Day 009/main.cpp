@@ -1,6 +1,5 @@
 /*
-    Title: 
-        Minimize Tower Height Difference
+    Title: Minimize Tower Height Difference
     Description:
         Given an array representing the heights of towers, this program minimizes 
         the difference between the tallest and shortest tower heights after modifying 
