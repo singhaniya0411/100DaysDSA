@@ -11,7 +11,7 @@
     Output:
         - The maximum sum of any contiguous subarray within the input array
 
-    Author: Vishal Singhaniya
+    Author : Vishal Singhaniya
 */
 
 #include <iostream>
