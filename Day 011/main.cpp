@@ -10,7 +10,6 @@ int maxSubArraySum(int arr[], int n) {
         currentSum += arr[i];
         if (currentSum > maxSum) {
             maxSum = currentSum; 
-            
         }
         if (currentSum < 0) {
             currentSum = 0; 
