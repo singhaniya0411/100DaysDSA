@@ -16,7 +16,6 @@ int maxSubArraySum(int arr[], int n) {
             currentSum = 0; 
         }
     }
-
     return maxSum;
 }
 
