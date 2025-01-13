@@ -4,7 +4,6 @@ using namespace std;
 
 int maxSubArraySum(int arr[], int n) {
     int maxSum = INT_MIN; 
-    
     int currentSum = 0;
 
     for (int i = 0; i < n; ++i) {
