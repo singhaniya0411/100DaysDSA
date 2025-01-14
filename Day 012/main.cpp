@@ -4,7 +4,7 @@
 using namespace std;
 
 int getMinDiff(int arr[], int n, int k) {
-    // Sort the array
+    
     sort(arr, arr + n);
 
     // Initialize the difference between the largest and smallest heights
