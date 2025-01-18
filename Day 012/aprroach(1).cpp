@@ -1,5 +1,6 @@
 /*
-    Title: Maximum Circular Subarray Sum
+    Title: 
+        Maximum Circular Subarray Sum
     Description:
         This program calculates the maximum sum of a subarray in a circular array.
         A circular array allows wrapping around, enabling subarrays to span the connection 
