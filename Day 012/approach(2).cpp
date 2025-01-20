@@ -34,7 +34,7 @@ using namespace std;
     Space Complexity:
         - O(1), as no additional data structures are used apart from variables.
 
-    Author: Vishal
+    Author: Vishal Singhaniya
 */
 
 int maximimum_sum_circular_subarray(int arr[], int size) {
