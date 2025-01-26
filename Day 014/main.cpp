@@ -1,5 +1,6 @@
 /*
-    Title: String to Integer (myAtoi)
+    Title: 
+        String to Integer (myAtoi)
     Description:
         This program converts a given string to an integer, handling various edge cases
         such as leading spaces, optional sign symbols ('+' or '-'), and non-numeric characters.
