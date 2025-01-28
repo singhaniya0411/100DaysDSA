@@ -1,5 +1,6 @@
 /*
-    Title: Check Anagram of Two Strings
+    Title: 
+        Check Anagram of Two Strings
     Description:
         This program checks whether two given strings are anagrams of each other.
         Two strings are considered anagrams if they contain the same characters 
