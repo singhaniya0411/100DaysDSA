@@ -1,1 +1,1 @@
-Data structures and algorithms from GFG.
+Data structures and algorithms.
