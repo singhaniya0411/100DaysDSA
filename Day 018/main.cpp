@@ -3,7 +3,6 @@
 #include<vector>
 using namespace std;
 
-
 void computeLPS_Array(string pattern, int lps[]){
     int m = pattern.length();
     int len = 0;
