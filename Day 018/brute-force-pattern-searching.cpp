@@ -1,6 +1,5 @@
 /*
-    Title: 
-        Brute Force String Searching Algorithm
+    Title: Brute Force String Searching Algorithm
     Description:
         - This program searches for a pattern in a given text using 
           the brute force approach.
