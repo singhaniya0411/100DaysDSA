@@ -22,7 +22,7 @@
     Space Complexity:
         - O(n), where n is the length of the pattern, due to the storage of the LPS array.
 
-    Author: Vishal
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
