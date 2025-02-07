@@ -1,5 +1,3 @@
-// some changes need to happen
-
 #include <iostream>
 #include <string>
 #include <vector>
