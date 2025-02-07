@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
 using namespace std;
 
 // Function to compute the Longest Prefix Suffix (LPS) array for the pattern
