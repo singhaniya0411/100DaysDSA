@@ -3,6 +3,7 @@
 #include <vector>
 
 using namespace std;
+
 // Function to compute the Longest Prefix Suffix (LPS) array for the pattern
 void computeLPS_Array(string pattern, vector<int>& lps) {
     int n = pattern.length();
