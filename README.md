@@ -8,7 +8,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 001: Second Largest.
 - Day 002: Move all zeors to the end.
 - Day 003: Reverse an array.
-- Day 004:
+- Day 004: Rotate an array.
 - Day 005: 
 - Day 006: 
 - Day 007: 
