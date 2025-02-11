@@ -10,7 +10,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 003: Reverse an array.
 - Day 004: Rotate an array.
 - Day 005: Next Permutation.
-- Day 006: 
+- Day 006: Majority Element II
 - Day 007: 
 - Day 008: 
 - Day 009: 
