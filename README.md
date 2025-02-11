@@ -5,7 +5,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 ## 📌 Topics
 
 ### **1. Array (Day 01 - Day 13)**
-- Day 001: 
+- Day 001: Second Largest
 - Day 002: 
 - Day 003: 
 - Day 004:
