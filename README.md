@@ -9,7 +9,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 002: Move all zeors to the end.
 - Day 003: Reverse an array.
 - Day 004: Rotate an array.
-- Day 005: 
+- Day 005: Next Permutation.
 - Day 006: 
 - Day 007: 
 - Day 008: 
