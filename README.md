@@ -24,7 +24,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 015: Add Binary Strings.
 - Day 016: Anagram check
 - Day 017: Non Repeating character
-- Day 018: 
+- Day 018: Search Pattern (KMP-Algorithm).
 - Day 019: 
 - Day 020:
 
