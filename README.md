@@ -25,7 +25,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 016: Anagram check
 - Day 017: Non Repeating character
 - Day 018: Search Pattern (KMP-Algorithm).
-- Day 019: 
+- Day 019: Minimum character to add for palindrome.
 - Day 020:
 
 ### **3. Sorting (Day 21 - Day 27)**
