@@ -20,7 +20,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 013: Smallest positive.
 
 ### **2. String (Day 14 - Day 20)**
-- Day 014: 
+- Day 014: Implement Atoi.
 - Day 015: 
 - Day 016: 
 - Day 017: 
