@@ -30,7 +30,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 
 ### **3. Sorting (Day 21 - Day 27)**
 - Day 021: Sort 0s, 1s and 2s.
-- Day 022: Find H-index
+- Day 022: Find H-index.
 -
 -
 -
