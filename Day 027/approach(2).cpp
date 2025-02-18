@@ -1,6 +1,6 @@
 /*
-    Title: Merge Two Sorted Arrays Without Extra Space (O(n * m) Approach)
-
+    Title: 
+        Merge Two Sorted Arrays Without Extra Space (O(n * m) Approach)
     Description:
         - This program merges two sorted arrays `arr1` and `arr2` in **non-decreasing order**.
         - The merging is done **without using extra space**.
@@ -13,10 +13,10 @@
         4. **Repeat the process** to maintain the sorted order.
 
     Time Complexity:
-        - **O(n * m)** (For each element in `arr2`, we perform at most `n` shifts)
+        - O(n * m) (For each element in `arr2`, we perform at most `n` shifts)
     
     Space Complexity:
-        - **O(1)** (No extra space used)
+        - O(1) (No extra space used)
 
     Author: Vishal
 */
