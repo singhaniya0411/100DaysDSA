@@ -16,11 +16,11 @@
            - This ensures elements remain in non-decreasing order.
 
     Time Complexity:
-        - **O(n + m log m + n log n)**  
+        - O(n + m log m + n log n) 
           (Swapping takes O(n + m), sorting takes O(n log n + m log m))
 
     Space Complexity:
-        - **O(1)** (No extra space used)
+        - O(1) (No extra space used)
 
     Author: Vishal Singhaniya
 */
