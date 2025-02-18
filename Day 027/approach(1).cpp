@@ -1,6 +1,6 @@
 /*
-    Title: Merge Two Sorted Arrays Without Extra Space (Gap Method Approach)
-
+    Title: 
+        Merge Two Sorted Arrays Without Extra Space (Gap Method Approach)
     Description:
         - This program merges two sorted arrays `arr1` and `arr2` in **non-decreasing order**.
         - The merging is done **without using extra space**.
