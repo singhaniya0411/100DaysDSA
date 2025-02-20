@@ -33,6 +33,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 022: Find H-index.
 - Day 023: Merge-Overlapping-Intervals.
 - Day 024: Count Inversion.
+- Day 025: Insert and Merge Interval.
 
 
 
