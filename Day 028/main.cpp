@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 int findMinimum(int arr[],int low,int high){
     
     while(low<high){
