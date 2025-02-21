@@ -2,9 +2,7 @@
 using namespace std;
 
 int findMinimum(int arr[],int low,int high){
-    
     while(low<high){
-        
         if(arr[low]<arr[high]){
             return arr[low];
         }
