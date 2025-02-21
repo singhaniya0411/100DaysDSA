@@ -6,7 +6,6 @@ int findMinimum(int arr[],int low,int high){
         if(arr[low]<arr[high]){
             return arr[low];
         }
-        
         int mid = (low+high)/2;
         
         if(arr[mid]>arr[high]){
