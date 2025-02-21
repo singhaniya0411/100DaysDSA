@@ -18,8 +18,7 @@ int findMinimum(int arr[],int low,int high){
     return arr[low];
 }
 
-int main(){
-    
+int main(){    
     int size;
     cout<<"Enter the size of array : ";
     cin>>size;
