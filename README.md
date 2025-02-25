@@ -40,7 +40,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 
   ### **4. Searching **
   - Day 028: Number of occurence.
-  - D
+  - Day 029: Minimum in a Sorted and Rotated Array.
 
 
 
