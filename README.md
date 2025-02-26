@@ -43,6 +43,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
  - Day 029: Minimum in a Sorted and Rotated Array.
  - Day 030: Search in a Sorted and Rotated Array.
  - Day 031: Peak Element in Array.
+ - Day 032: K-th Missing Positive Number.
 
 
 
