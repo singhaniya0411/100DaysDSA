@@ -38,7 +38,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 026: Minimum removal to make range non-overlapping.
 - Day 027: Merge two Sorted Arrays without Extra Space.
 
-  ### **4. Searching **
+  ### **4. Searching**
   - Day 028: Number of occurence.
   - Day 029: Minimum in a Sorted and Rotated Array.
   - Day 030: Search in a Sorted and Rotated Array.
