@@ -20,22 +20,14 @@
     Space Complexity:
         - **O(1)** (No extra space used)
 
-    Author: Vishal
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
 #include <algorithm> // For sorting
 using namespace std;
 
-/**
- * @brief Checks if we can place 'K' cows in stalls with at least 'dist' separation.
- * 
- * @param arr Sorted array of stall positions.
- * @param k Number of cows to place.
- * @param dist Minimum required distance.
- * @param size Number of stalls.
- * @return true if cows can be placed, false otherwise.
- */
+
 bool checkCow(int arr[], int k, int dist, int size) {
     int count = 1;     // Place the first cow at the first stall
     int prev = arr[0]; // Track the last placed cow's position
@@ -53,14 +45,6 @@ bool checkCow(int arr[], int k, int dist, int size) {
     return false;
 }
 
-/**
- * @brief Finds the largest minimum distance to place 'K' cows in stalls (Brute Force).
- * 
- * @param arr Array of stall positions.
- * @param size Number of stalls.
- * @param k Number of cows.
- * @return The maximum minimum distance possible.
- */
 int aggressiveCows(int arr[], int size, int k) {
     sort(arr, arr + size); // Sort stall positions
 
