@@ -1,6 +1,5 @@
 /*
-    Title: 
-        Aggressive Cows - Maximum Minimum Distance Placement (Brute Force Approach)
+    Title: Aggressive Cows - Maximum Minimum Distance Placement (Brute Force Approach)
 
     Problem Statement:
         - Given 'N' stalls and 'K' cows, place the cows in the stalls such that the 
