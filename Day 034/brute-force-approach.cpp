@@ -14,7 +14,7 @@
     Time Complexity: **O(N²)** (since we check every page limit from max to sum).
     Space Complexity: **O(1)** (No extra space used).
 
-    Author: Vishal
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
