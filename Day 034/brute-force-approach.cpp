@@ -1,7 +1,7 @@
 /*
     Title:
         Allocate Minimum Number of Pages (Brute Force Approach)
-    
+
     Problem Statement:
         - Given an array representing pages in 'N' books and 'K' students,
           allocate books to minimize the **maximum number of pages** a student gets.
