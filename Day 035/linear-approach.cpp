@@ -1,5 +1,6 @@
 /*
-    Title: Find K-th Smallest Element in Two Sorted Arrays (Merge Approach)
+    Title: 
+        Find K-th Smallest Element in Two Sorted Arrays (Merge Approach)
     
     Problem Statement:
         - Given two sorted arrays, find the **k-th smallest element** efficiently.
