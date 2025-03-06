@@ -1,7 +1,7 @@
 /*
     Title:
         Find K-th Smallest Element in Two Sorted Arrays (Binary Search Approach)
-    
+
     Problem Statement:
         - Given two sorted arrays, find the k-th smallest element in their merged sorted form.
         - The arrays are independently sorted, and we need an efficient way to find the k-th smallest element.
