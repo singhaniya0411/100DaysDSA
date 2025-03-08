@@ -1,6 +1,5 @@
 /*
-    Title: 
-        Print a Matrix in Spiral Order (Efficient Approach)
+    Title: Print a Matrix in Spiral Order (Efficient Approach)
     
     Problem Statement:
         - Given an M x N matrix, print its elements in **spiral order**.
