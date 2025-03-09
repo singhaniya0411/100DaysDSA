@@ -13,7 +13,7 @@
     Time Complexity: **O(N²)**
     Space Complexity: **O(N²)** (Since we use an extra matrix)
 
-    Author: Vishal
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
