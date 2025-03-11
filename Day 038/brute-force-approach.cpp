@@ -4,7 +4,6 @@
     Problem Statement:
         - Implement a function to search for an element in an M x N matrix 
           where each row and column is sorted in increasing order.
-
     Approach:
         - Iterate through the entire matrix using a **brute-force** approach.
         - Compare each element with the target value.
