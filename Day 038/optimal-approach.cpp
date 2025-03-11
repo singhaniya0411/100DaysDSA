@@ -1,5 +1,6 @@
 /*
-    Title: Search an Element in a Row-wise and Column-wise Sorted Matrix
+    Title:
+        Search an Element in a Row-wise and Column-wise Sorted Matrix
     
     Problem Statement:
         - Implement a function to search for an element in an M x N matrix 
