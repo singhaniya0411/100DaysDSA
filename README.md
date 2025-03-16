@@ -44,6 +44,17 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
  - Day 030: Search in a Sorted and Rotated Array.
  - Day 031: Peak Element in Array.
  - Day 032: K-th Missing Positive Number.
+ - Day 033: Aggressive Cows.
+ - Day 034: Allocate Minimum Pages.
+ - Day 035: Kth-Element of Merged two Sorted Array.
+
+  ### **5. Matrix**
+  - Day 036: Spirally Traversing a Matrix.
+  - Day 037: Rotate by 90 degree.
+  - Day 038: Search in a Row-Column sorted Matrix.
+  - Day 039: Search in a Row-Wise sorted Matrix.
+  - Day 040: Search in Sorted Matrix.
+  - Day 041: Set Matrix Zero.
 
 
 
