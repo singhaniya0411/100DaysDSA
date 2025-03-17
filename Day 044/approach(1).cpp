@@ -3,7 +3,7 @@
 
     Problem Statement:
         - Given an array of integers, find all unique triplets whose sum equals zero.
-
+        
     Approach:
         - Use a **brute force** method with three nested loops.
         - Iterate through all possible triplets in the array.
