@@ -9,7 +9,7 @@
         - Iterate through all possible triplets in the array.
         - Check if the sum of any three numbers is zero.
         - Print the valid triplets.
-
+        
     Returns:
         - Prints all unique triplets that satisfy the condition.
 
