@@ -59,6 +59,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 
   ### **6. Hashing**
   - Day 042: Pair with given sum - 2Sum.
+  - Day 043: Count Pairs with given sum.
+ 
 
 
 ## 💻 Implementations
