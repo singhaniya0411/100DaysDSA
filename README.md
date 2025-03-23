@@ -57,6 +57,10 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 040: Search in Sorted Matrix.
   - Day 041: Set Matrix Zero.
 
+  ### **6. Hashing**
+  - Pair with given sum - 2Sum.
+  - 
+
 ## 💻 Implementations
 Each topic includes:
 - 📄 **Explanation** of the concept
