@@ -23,7 +23,6 @@
 
 #include <iostream>
 using namespace std;
-
 // Function to find and print all unique triplets in the array that sum up to zero
 void findTriplets(int arr[], int n) {
     for (int i = 0; i < n - 2; i++) {
