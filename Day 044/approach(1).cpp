@@ -2,6 +2,7 @@
     Title: Find Triplets with Sum Zero using Brute Force
 
     Problem Statement:
+    
         - Given an array of integers, find all unique triplets whose sum equals zero.
         
     Approach:
