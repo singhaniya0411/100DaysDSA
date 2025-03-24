@@ -10,7 +10,6 @@
         - Print the valid triplets.
         
     Returns:
-    
         - Prints all unique triplets that satisfy the condition.
 
     Time Complexity:
