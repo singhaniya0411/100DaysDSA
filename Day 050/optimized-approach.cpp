@@ -10,7 +10,6 @@
         - If `preXOR == k`, increment the count.
         - Check if `preXOR ^ k` exists in the hash map; if yes, add its frequency to count.
         - Update the map with the current prefix XOR.
-
     Time Complexity:
         - **O(n)** (Each element is processed once)
 
