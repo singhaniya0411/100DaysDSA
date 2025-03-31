@@ -68,6 +68,10 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 049: Subarray with sum K.
   - Day 050: Count Subarray with given XOR.
 
+  
+    ### **7. Two Pointer Technique**
+    - Day 051: Count Triplet in Sorted Array.
+
    
 
 
