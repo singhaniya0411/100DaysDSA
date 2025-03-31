@@ -66,6 +66,9 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 047: Longest Consecutive Subsequence.
   - Day 048: Print Anagram Together.
   - Day 049: Subarray with sum K.
+  - Day 050: Count Subarray with given XOR.
+
+   
 
 
 
