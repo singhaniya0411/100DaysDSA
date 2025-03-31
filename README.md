@@ -63,6 +63,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 044: Triplets in Unsorted.
   - Day 045: Intersection of two sets.
   - Day 046: Union of Arrays with Duplicates.
+  - Day 047: Longest Consecutive Subsequence.
+
 
 
  
