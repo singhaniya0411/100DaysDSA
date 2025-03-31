@@ -64,6 +64,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 045: Intersection of two sets.
   - Day 046: Union of Arrays with Duplicates.
   - Day 047: Longest Consecutive Subsequence.
+  - Day 048: Print Anagram Together.
 
 
 
