@@ -63,13 +63,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 044: Triplets in Unsorted.
   - Day 045: Intersection of two sets.
   - Day 046: Union of Arrays with Duplicates.
-  - Day 047: Longest Consecutive Subsequence.
-  - Day 048: Print Anagram Together.
-  - Day 049: Subarray with sum K.
-  - Day 050: Count Subarray with given XOR.
 
-    ### **7. Two Pointer Technique**
-    - Day 051: Count Triplet in Sorted Array.
 
  
 
