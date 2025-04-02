@@ -71,7 +71,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   
   ### **7. Two Pointer Technique**
   - Day 051: Count Triplet in Sorted Array.
-  - Day 052:
+  - Day 052: Count Pairs whose sum is less than target.
   - Day 053:
   - Day 054:
     - 
