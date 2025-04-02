@@ -89,7 +89,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 ## 💻 Implementations
 Each topic includes:
 - 📄 **Explanation** of the concept
-- 🔢 **Code Implementations** in C++
+- 🔢 **Code Implementations** in C++ and Python.
+  
 
 ## 🛠 Tech Stack
 - **Programming Languages:** C++
