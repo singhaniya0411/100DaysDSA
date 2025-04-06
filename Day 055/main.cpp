@@ -4,7 +4,7 @@
         - Given an array of positive integers representing side lengths,
           count the number of triplets `(i, j, k)` such that:
               arr[i] + arr[j] > arr[k]  (triangle inequality)
-              where i < j < k
+              where i < j < k.
     Approach:
         - First, sort the array.
         - Fix the largest side (arr[i]) from the end and use two pointers
