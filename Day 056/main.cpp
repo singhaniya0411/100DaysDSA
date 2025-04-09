@@ -5,7 +5,6 @@
         - Given an array of positive integers and a target sum,
           return the start and end indices of a subarray that sums exactly to the target.
         - Use 1-based indexing for the output indices.
-
     Approach:
         - Use the sliding window technique to maintain a running sum.
         - If the sum exceeds the target, shrink the window from the left.
