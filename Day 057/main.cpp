@@ -1,8 +1,7 @@
 /*
     Title: Count Distinct Elements in Every Subarray of Given Size (Sliding Window)
 
-    Problem Statement:
-    
+    Problem Statement:    
         - Given an array of integers and a window size `target`,
           return the count of distinct elements in each subarray of size `target`.
     Approach:
