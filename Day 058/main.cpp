@@ -48,7 +48,7 @@ int longestUniqueSubstring(string s) {
 int main() {
     string st = "geeksforgeeks";
     
-    cout << "Desired answer: " << longestUniqueSubstring(st) << endl;
+    cout << ": " << longestUniqueSubstring(st) << endl;
 
     return 0;
 }
