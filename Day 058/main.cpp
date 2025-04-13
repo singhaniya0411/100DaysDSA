@@ -12,7 +12,7 @@
         - Update the start of the window if a duplicate is found.
 
     Time Complexity:
-        - **O(n)** — Each character is processed once.
+        - **O(n)** — Each character is processed once,So the overall time complexity would be O(n).
 
     Space Complexity:
         - **O(1)** — Fixed size (26 for lowercase English letters)
