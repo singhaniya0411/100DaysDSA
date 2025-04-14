@@ -76,6 +76,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 054: Count pair in sorted.
   - Day 055: Counted the number of possible triangles.
   - Day 056: Subarray with given sum.
+  - Day 057: Count Distinct elements in evry window of k size.
 
    
 
