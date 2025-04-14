@@ -75,6 +75,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 053: Sum Pairs to closest to target.
   - Day 054: Count pair in sorted.
   - Day 055: Counted the number of possible triangles.
+  - Day 056: Subarray with given sum.
 
    
 
