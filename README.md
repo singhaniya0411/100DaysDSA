@@ -4,7 +4,6 @@
 Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This repository contains my daily progress in mastering DSA, covering fundamental to advanced topics with coding implementations.
 
 ## 📌 Topics
-
 ### **1. Array (Day 01 - Day 13)**
 - Day 001: Second Largest.
 - Day 002: Move all zeors to the end.
