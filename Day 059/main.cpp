@@ -1,5 +1,6 @@
 /*
     Title: Trapping Rain Water (Two Pointers Approach)
+
     
     Problem Statement:
         - Given an array representing the elevation map where the width of each bar is 1,
