@@ -11,7 +11,7 @@
         - Move the pointer pointing to the shorter line inward to possibly find a taller line.
 
     Time Complexity:
-        - **O(n)** — Each element is visited at most once
+        - **O(n)** — Each element is visited at most once.
 
     Space Complexity:
         - **O(1)** — Constant space used.
