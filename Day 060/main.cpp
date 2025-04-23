@@ -16,8 +16,7 @@
     Space Complexity:
         - **O(1)** — Constant space used.
 
-    Assumption:
-        - Elevation map contains only non-negative integers.
+
 
     Author: Vishal Singhaniya
 */
