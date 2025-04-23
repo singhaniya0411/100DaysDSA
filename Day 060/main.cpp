@@ -1,15 +1,14 @@
 /*
-    Title: Trapping Rain Water (Two Pointers Approach)
+    Title: Container with Most Water (Two Pointers Approach)
 
     Problem Statement:
-        - Given an array representing the elevation map where the width of each bar is 1,
-          compute how much water it can trap after raining.
+        - Given an array where each element represents the height of a vertical line on the x-axis,
+          find two lines that, together with the x-axis, form a container that holds the most water.
 
     Approach:
         - Use two pointers starting from both ends of the array.
-        - Maintain the maximum heights seen so far from both left and right.
-        - At each step, move the pointer from the side with the smaller current max height,
-          and accumulate trapped water if the current height is less than the max.
+        - Calculate the area between the two lines.
+        - Move the pointer pointing to the shorter line inward to possibly find a taller line.
 
     Time Complexity:
         - **O(n)** — Each element is visited at most once.
@@ -26,27 +25,20 @@
 #include <iostream>
 using namespace std;
 
-// Function to calculate maximum water trapped
+// Function to calculate container with most water
 int maxWater(int arr[], int size) {
-    if (size < 3) return 0; // Less than 3 bars can't trap any water
-
-    int left = 1;
-    int right = size - 2;
-
-    int lMax = arr[0];
-    int rMax = arr[size - 1];
-
+    int left = 0;
+    int right = size - 1;
     int res = 0;
 
-    while (left <= right) {
-        if (rMax < lMax) {
-            res += max(0, rMax - arr[right]);
-            rMax = max(rMax, arr[right]);
-            right--;
-        } else {
-            res += max(0, lMax - arr[left]);
-            lMax = max(lMax, arr[left]);
+    while (left < right) {
+        int water = min(arr[left], arr[right]) * (right - left);
+        res = max(res, water);
+
+        if (arr[left] < arr[right]) {
             left++;
+        } else {
+            right--;
         }
     }
 
@@ -54,10 +46,10 @@ int maxWater(int arr[], int size) {
 }
 
 int main() {
-    int arr[] = {3,0,1,0,4,0,2};
+    int arr[] = {1, 4, 5, 3, 2};
     int size = sizeof(arr) / sizeof(arr[0]);
 
-    cout << "Maximum water trapped: " << maxWater(arr, size) << endl;
+    cout << "Maximum water that can be contained: " << maxWater(arr, size) << endl;
 
     return 0;
 }
