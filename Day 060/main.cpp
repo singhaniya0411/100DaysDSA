@@ -6,7 +6,6 @@
           find two lines that, together with the x-axis, form a container that holds the most water.
 
     Approach:
-    
         - Use two pointers starting from both ends of the array.
         - Calculate the area between the two lines.
         - Move the pointer pointing to the shorter line inward to possibly find a taller line.
