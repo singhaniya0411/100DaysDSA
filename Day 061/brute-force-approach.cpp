@@ -1,5 +1,5 @@
 /*
-    Title: Equilibrium Point in an Array (Brute Force Approach)
+    Title: Equilibrium Point in an Array (Brute Force Approach
 
     Problem Statement:
         - Given an array of integers, find an index such that the sum of elements 
