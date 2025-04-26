@@ -7,7 +7,6 @@
         - Return the index if such a point exists, otherwise return -1.
         
     Approach:
-    
         - For each index, calculate the sum of elements to its left and right.
         - If left and right sums are equal, return that index.
         - Brute-force method using two loops.
