@@ -1,6 +1,5 @@
 /*
     Title: Equilibrium Point in an Array (Brute Force Approach)
-
     Problem Statement:
         - Given an array of integers, find an index such that the sum of elements 
           to the left of it is equal to the sum of elements to the right.
