@@ -32,13 +32,12 @@ int equilibriumPoint(vector<int> arr, int n) {
     for (int i = 0; i < n; i++) {
         int leftSum = 0, rightSum = 0;
 
-        // Calculate left sum
+        // left sum
         for (int j = 0; j < i; j++) {
             leftSum += arr[j];
         }
 
-        
-        // Calculate right sum
+        // right sum
         for (int k = i + 1; k < n; k++) {
             rightSum += arr[k];
         }
