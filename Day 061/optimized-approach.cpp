@@ -21,7 +21,6 @@
         - The array can contain positive, negative, or zero elements.
 
     Author: Vishal Singhaniya
-    
 */
 
 #include <iostream>
@@ -38,6 +37,7 @@ int equilibriumPoint(vector<int> arr, int n) {
             leftSum += arr[j];
         }
 
+        
         // Calculate right sum
         for (int k = i + 1; k < n; k++) {
             rightSum += arr[k];
