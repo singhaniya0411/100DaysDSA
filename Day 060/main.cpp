@@ -4,7 +4,6 @@
     Problem Statement:
         - Given an array where each element represents the height of a vertical line on the x-axis,
           find two lines that, together with the x-axis, form a container that holds the most water.
-
     Approach:
         - Use two pointers starting from both ends of the array.
         - Calculate the area between the two lines.
