@@ -18,7 +18,7 @@
         
     Assumption:
         - The array can contain positive, negative, or zero elements.
-    Author: Vishal Singhaniy
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
