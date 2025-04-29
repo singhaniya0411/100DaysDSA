@@ -5,7 +5,6 @@
           find the length of the longest subarray whose sum equals k.
 
     Approach:
-    
         - For every possible subarray, calculate its sum.
         - If the sum equals k, update the maximum length.
         - Brute-force method using two nested loops.
