@@ -1,6 +1,7 @@
 /*
     Title: Longest Subarray with Equal Number of 0s and 1s (Brute Force Approach)
 
+
     Problem Statement:
         - Given a binary array (containing only 0s and 1s),
           find the length of the longest subarray with equal number of 0s and 1s.
