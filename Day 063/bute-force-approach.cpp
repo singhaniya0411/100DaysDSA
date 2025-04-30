@@ -19,7 +19,7 @@
     Assumption:
         - The array contains only 0s and 1s.
 
-    Author: Vishal
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
