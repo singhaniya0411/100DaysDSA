@@ -3,8 +3,7 @@
 
     Problem Statement:
         - Given an array of integers and an integer k,
-          find the length of the longest subarray whose sum equals k.
-          
+          find the length of the longest subarray whose sum equals k.      
     Approach:
         - Use a prefix sum to keep track of cumulative sums.
         - Use an unordered_map to store the first occurrence of each prefix sum.
