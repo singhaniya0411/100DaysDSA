@@ -6,7 +6,6 @@
           res[i] = product of all elements in arr except arr[i].
         - Do not use division.
         - Assume all elements are integers and array size ≥ 2.
-
     Approach:
         - For each index i, multiply all elements except arr[i].
         
