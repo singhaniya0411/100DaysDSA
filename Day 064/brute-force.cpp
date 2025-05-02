@@ -8,7 +8,6 @@
         - Assume all elements are integers and array size ≥ 2.
 
     Approach:
-    
         - For each index i, multiply all elements except arr[i].
         
     Time Complexity: O(n²)
