@@ -9,8 +9,9 @@
 
     Approach:
         - For each index i, multiply all elements except arr[i].
-        - Time Complexity: O(n²)
-        - Space Complexity: O(n) for result array.
+        
+    Time Complexity: O(n²)
+    Space Complexity: O(n) for result array.
 
     Author: Vishal Singhaniya
 */
