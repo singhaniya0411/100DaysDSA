@@ -2,14 +2,12 @@
     Title: Product of Array Except Self (Brute Force Approach)
 
     Problem Statement:
-    
         - Given an array `arr`, return an array `res` such that:
           res[i] = product of all elements in arr except arr[i].
         - Do not use division.
         - Assume all elements are integers and array size ≥ 2.
     Approach:
-        - For each index i, multiply all elements except arr[i].
-        
+        - For each index i, multiply all elements except arr[i]
     Time Complexity: O(n²)
     Space Complexity: O(n) for result array.
 
