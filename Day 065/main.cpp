@@ -5,7 +5,6 @@
         - Create a singly linked list.
         - Implement functionality to reverse the list iteratively.
         - Print the list before and after reversal.
-
     Approach:
         - Use three pointers: `prev`, `curr`, and `next`.
         - Traverse the list and reverse links as you go.
