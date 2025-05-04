@@ -7,7 +7,6 @@
         - Print the list before and after rotation.
 
     Approach:
-    
         - Count the number of nodes.
         - Use modular arithmetic to avoid full rotations.
         - Find new tail, update links accordingly.
