@@ -1,6 +1,5 @@
 /*
     Title: Rotate a Singly Linked List by k Positions
-
     Problem Statement:
         - Create a singly linked list.
         - Implement functionality to rotate the list to the right by k places.
