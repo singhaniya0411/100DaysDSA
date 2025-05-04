@@ -5,6 +5,7 @@
         - Create a singly linked list.
         - Implement functionality to rotate the list to the right by k places.
         - Print the list before and after rotation.
+        
     Approach:
         - Count the number of nodes.
         - Use modular arithmetic to avoid full rotations.
