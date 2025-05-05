@@ -5,6 +5,7 @@
         - Create two sorted singly linked lists.
         - Implement functionality to merge them into one sorted list.
         - Print the final merged list.
+        
     Approach:
         - Use a dummy node to simplify the merge process.
         - Traverse both lists using two pointers.
