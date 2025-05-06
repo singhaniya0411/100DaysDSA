@@ -5,7 +5,6 @@
         - Create a singly linked list.
         - Detect whether there is a cycle in the list.
         - Return true if a cycle exists, otherwise false.
-
     Approach:
         - Use a hash map (unordered_map) to store visited nodes.
         - Traverse the list and check if a node has already been visited.
