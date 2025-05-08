@@ -78,6 +78,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 057: Count Distinct elements in evry window of k size.
   - Day 058: Longest Substring with Distinct Characters.
   - Day 059: Trapping Rain Water.
+  - Day 060: Container with most water.
 
    
 
