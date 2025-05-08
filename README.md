@@ -89,6 +89,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 ### **9. Linked List**
   - Day 065: Reverse a linked list.
   - Day 066: Rotate a Linked List.
+  - Day 067: Merge two sorted linked list
 
 
 
