@@ -80,6 +80,9 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 059: Trapping Rain Water.
   - Day 060: Container with most water.
 
+### **8. Prefix Suffix Sum**
+  - Day 061: Equilbirium Point.
+
    
 
 
