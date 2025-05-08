@@ -84,7 +84,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 061: Equilbirium Point.
   - Day 062: Longest SubArray with given sum.
   - Day 063: Longest Subarray with Equal No of 0s and 1s.
-  - 
+  - Day 064: Product of array except self.
 
    
 
