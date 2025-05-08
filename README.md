@@ -82,6 +82,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 
 ### **8. Prefix Suffix Sum**
   - Day 061: Equilbirium Point.
+  - Day 062: Longest SubArray with given sum.
 
    
 
