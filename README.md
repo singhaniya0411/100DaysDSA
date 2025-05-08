@@ -86,7 +86,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 063: Longest Subarray with Equal No of 0s and 1s.
   - Day 064: Product of array except self.
 
-   
+### **9. Linked List**
+  - Day 065: Reverse a linked list.
 
 
 
