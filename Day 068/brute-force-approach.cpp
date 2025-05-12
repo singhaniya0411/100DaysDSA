@@ -1,7 +1,6 @@
 /*
     Title: Detect Cycle in a Singly Linked List
 
-
     Problem Statement:
         - Create a singly linked list.
         - Detect whether there is a cycle in the list.
