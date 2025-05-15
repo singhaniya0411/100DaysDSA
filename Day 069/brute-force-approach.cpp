@@ -9,7 +9,7 @@
     Approach:
         - Use a hash map to store visited nodes.
         - Traverse the list and check if a node has already been visited.
-        - If yes, a cycle exists. If traversal ends, no cycle.
+        - If yes, a cycle exists. If traversal ends, no cycle is present.
 
     Time Complexity:
         - O(n), where n is the number of nodes.
