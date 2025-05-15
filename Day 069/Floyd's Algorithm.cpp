@@ -5,6 +5,7 @@
         - Create a singly linked list.
         - Detect whether there is a cycle in the list.
         - Return true if a cycle exists, otherwise false.
+        
 
     Approach:
         - Use Floyd’s Cycle Detection Algorithm (Tortoise and Hare).
