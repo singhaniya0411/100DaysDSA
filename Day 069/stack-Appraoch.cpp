@@ -16,7 +16,6 @@
 
     Space Complexity:
         - O(k), for storing elements in the stack for each group.
-
     Author: Vishal Singhaniya
 */
 
