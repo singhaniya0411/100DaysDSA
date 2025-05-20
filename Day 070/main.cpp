@@ -95,7 +95,6 @@ node* sumList(node* head1, node* head2) {
     if (size1 < size2) {
         return sumList(list2, list1);  // Ensure list1 is longer
     }
-
     list1 = reverseList(list1);
     list2 = reverseList(list2);
 
