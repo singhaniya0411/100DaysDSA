@@ -24,7 +24,7 @@
     Space Complexity:
         - O(1), no extra space except for result list.
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include <iostream>
