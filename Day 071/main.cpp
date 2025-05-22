@@ -11,7 +11,7 @@
         3. Detach the cloned list from the original list.
 
     Time Complexity:
-        - O(n), where n is the number of nodes in the list.
+        - O(n) : where n is the number of nodes in the list.
 
     Space Complexity:
         - O(1), no extra space used (in-place cloning without a hash map).
