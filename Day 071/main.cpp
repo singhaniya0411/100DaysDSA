@@ -2,7 +2,8 @@
     Title: Clone a Linked List with Next and Random Pointers
 
     Problem Statement:
-        - Given a linked list where each node has a `next` pointer and a `random` pointer, create a deep copy of the list.
+        - Given a linked list where each node has a `next` pointer and a `random` pointer
+          (which could point to any node or NULL), create a deep copy of the list.
 
     Approach:
         1. Insert a cloned node between each original node.
