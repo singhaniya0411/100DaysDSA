@@ -5,7 +5,7 @@
         - Create a singly linked list.
         - Introduce a cycle manually.
         - Detect whether a cycle exists.
-        - If a cycle exists, find the first node where the cycle begins.
+        - If a cycle exists, find and return the first node where the cycle begins.
 
     Approach:
         - Use Floyd’s Cycle Detection Algorithm .
