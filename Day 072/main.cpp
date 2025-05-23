@@ -1,6 +1,5 @@
 /*
-    Title: Detect Start of Loop in Singly Linked List (Floyd’s Algorithm)
-\
+    Title: Detect Start of Loop in Singly Linked List (Floyd’s Algorithms)
 
     Problem Statement:
         - Create a singly linked list.
