@@ -1,7 +1,7 @@
 /*
     Title: Detect Start of Loop in Singly Linked List (Floyd’s Algorithms)
 
-    Problem Statements:
+    Problem Statement:
         - Create a singly linked list.
         - Introduce a cycle manually.
         - Detect whether a cycle exists.
