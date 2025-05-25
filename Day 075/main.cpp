@@ -7,7 +7,6 @@
             - e is an integer (exponent)
         - Handle negative exponents correctly.
         
-
     Approach:
         - Use recursion with exponentiation by squaring:
             - If e is 0, return 1.
