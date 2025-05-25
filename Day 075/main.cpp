@@ -15,7 +15,7 @@
             - Multiply by b if e is odd.
 
     Time Complexity:
-        - O(log e)
+        - O(log e) as power reduces logarithmically.
 
     Space Complexity:
         - O(log e) due to recursion stack
