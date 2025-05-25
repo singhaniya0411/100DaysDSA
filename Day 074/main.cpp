@@ -1,10 +1,11 @@
 /*
     Title: LRU Cache Implementation
-    Problem Statement: Implement an LRU (Least Recently Used) Cache with get and put operations in O(1) time.
+    Problem Statement:
+        Implement an LRU (Least Recently Used) Cache with get and put operations in O(1) time.
 
     Approach: 
-    - Use a doubly linked list to store the order of usage.
-    - Use an unordered_map to store key -> node mappings for O(1) access.
+        - Use a doubly linked list to store the order of usage.
+        - Use an unordered_map to store key -> node mappings for O(1) access.
 
     Time Complexity: O(1) for both get and put
     Space Complexity: O(capacity) for storing cache items
