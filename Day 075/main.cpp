@@ -5,7 +5,7 @@
         - Implement a function to calculate b^e (b raised to power e), where:
             - b is a floating point number (base)
             - e is an integer (exponent)
-        - Handle negative exponents correctly  by calculating reciprocal of negative of negative power.
+        - Handle negative exponents correctly.
         
 
     Approach:
