@@ -1,5 +1,5 @@
 /*
-    Title: LRU Cache Implementation
+    Title: LRU (Least Recent Used) Cache Implementation
     
     Problem Statement:
         Implement an LRU (Least Recently Used) Cache with get and put operations in O(1) time.
