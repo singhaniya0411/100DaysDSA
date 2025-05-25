@@ -11,7 +11,7 @@
         O(1) for both get and put.
         
     Space Complexity:
-        O(capacity) for storing cache items
+        O(capacity) for storing cache items.
 
     Author: Vishal Singhaniya
 */
