@@ -6,6 +6,7 @@
             - b is a floating point number (base)
             - e is an integer (exponent)
         - Handle negative exponents correctly.
+        
 
     Approach:
         - Use recursion with exponentiation by squaring:
