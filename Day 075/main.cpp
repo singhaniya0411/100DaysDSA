@@ -1,5 +1,5 @@
 /*
-    Title: Power Function using Exponentiation in Optimal way.
+    Title: Power Function using Exponentiation by Squaring method
 
     Problem Statement:
         - Implement a function to calculate b^e (b raised to power e), where:
