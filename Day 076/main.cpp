@@ -12,7 +12,7 @@
         - O(n!) : where n is the number of elements
 
     Space Complexity:
-        - O(n) recursion stack
+        - O(n) : where n is the number of elements
 
     Author: Vishal Singhaniya
 */
