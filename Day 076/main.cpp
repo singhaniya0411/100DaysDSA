@@ -2,7 +2,7 @@
     Title: Generate All Permutations of given Integer Array
 
     Problem Statement:
-        - Given an array of integers, print all possible permutations.
+        - Given an array of integers of size n, print all possible permutations.
 
     Approach:
         - Use backtracking with swapping to get original array.
