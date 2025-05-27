@@ -9,7 +9,7 @@
         - Fix one element at each position and recursively permute the rest.
 
     Time Complexity:
-        - O(n!), for n elements.
+        - O(n!) : where n is the number of elements
 
     Space Complexity:
         - O(n) recursion stack
