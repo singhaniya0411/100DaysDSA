@@ -1,5 +1,5 @@
 /*
-    Title: Generate All Permutations of Integer Array
+    Title: Generate All Permutations of given Integer Array
 
     Problem Statement:
         - Given an array of integers, print all possible permutations.
