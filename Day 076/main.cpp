@@ -5,7 +5,7 @@
         - Given an array of integers, print all possible permutations.
 
     Approach:
-        - Use backtracking with swapping.
+        - Use backtracking with swapping to get original array.
         - Fix one element at each position and recursively permute the rest.
 
     Time Complexity:
