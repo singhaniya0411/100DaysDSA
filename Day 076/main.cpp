@@ -36,7 +36,7 @@ void permute(vector<int>& arr, int i, int n) {
     }
 
     for (int j = i; j < n; j++) {
-        swap(arr[i], arr[j]);
+        swap(arr[i], arr[j]); //swapping
         permute(arr, i + 1, n);
         swap(arr[i], arr[j]); // backtrack
     }
