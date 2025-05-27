@@ -14,7 +14,7 @@
     Space Complexity:
         - O(n) : where n is the number of elements
 
-    Author: Vishal Singhaniya
+    Author:  Vishal Singhaniya
 */
 
 #include <iostream>
