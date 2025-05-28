@@ -101,6 +101,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 ### **10. Backtracking and Recursion**
   - Day 075: Power(b,e) using square method.
   - Day 076: Generating all permutation of given string of integer.
+  - Day 077 : N-Queen Problem.
 
 
 
