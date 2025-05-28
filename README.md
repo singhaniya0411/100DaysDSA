@@ -96,6 +96,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 071: Clone a linked list.
   - Day 072: Find the first node of loop in linked list.
   - Day 073: Remove loop in linked list.
+  - Day 074: LRU cache.
 
 
 
