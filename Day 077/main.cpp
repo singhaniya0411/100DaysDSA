@@ -16,7 +16,8 @@
         - Backtrack by unmarking the position.
 
     Time Complexity:
-        - O(N!), exponential, since we try all possibilities.
+        - O(n!), exponential, since we try all possibilities.
+        
 
     Space Complexity:
         - O(N^2), for storing all valid board configurations.
