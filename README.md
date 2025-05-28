@@ -94,6 +94,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 069: Reversing linked list in group of k.
   - Day 070: Sum of a two linked list.
   - Day 071: Clone a linked list.
+  - Day 072: Find the first node of loop in linked list.
 
 
 
