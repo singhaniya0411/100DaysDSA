@@ -20,7 +20,7 @@
         
 
     Space Complexity:
-        - O(N^2), for storing all valid board configurations.
+        - O(n^2), for storing all valid board configurations.
 
     Author: Vishal Singhaniya
 */
