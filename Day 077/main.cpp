@@ -16,7 +16,7 @@
         - Backtrack by unmarking the position.
 
     Time Complexity:
-        - O(n!), exponential, since we try all possibilities.
+        - O(n!), exponential, since we try all possibility .
         
 
     Space Complexity:
