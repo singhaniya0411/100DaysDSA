@@ -15,11 +15,9 @@
         - On placing a queen, mark attacks and recurse for next column.
         - Backtrack by unmarking the position.
 
-
     Time Complexity:
         - O(n!), exponential, since we try all possibility .
         
-
     Space Complexity:
         - O(n^2), for storing all valid board configurations.
 
