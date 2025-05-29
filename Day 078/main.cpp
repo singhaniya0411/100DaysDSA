@@ -1,5 +1,5 @@
 /*
-    Title: Sudoku Solver using Bitmask and Backtracking
+    Title: Sudoku Solver using Recursion and Backtracking
 
     Problem Statement:
         - Given a 9x9 Sudoku board with some cells filled and others empty (denoted by 0),
