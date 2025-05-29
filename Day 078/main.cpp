@@ -20,7 +20,7 @@
     Space Complexity:
         - O(1) extra space (only arrays of size 9 used for rows, columns, and squares).
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include<iostream>
