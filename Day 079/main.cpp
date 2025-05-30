@@ -2,7 +2,7 @@
     Title: Word Search in a 2D Grid
 
     Problem Statement:
-        - Given a 2D board of characters and a word,
+        - Given a matrix of characters and a word,
         - Check whether the word exists in the grid by moving horizontally or vertically.
 
     Approach:
