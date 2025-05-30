@@ -8,7 +8,7 @@
     Approach:
         - Use DFS to explore all paths starting from each cell that matches the first letter.
         - Use a visited marker (`#`) to avoid revisiting the same cell in one path.
-        - Try all 4 directions (up, down, left, right) for each character match
+        - Try all 4 directions (up, down, left, right) for each character match.
 
     Time Complexity:
         - O(m*n*4^l) where l = length of the word, and m*n = matrix size.
