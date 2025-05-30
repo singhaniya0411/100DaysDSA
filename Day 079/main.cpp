@@ -11,10 +11,10 @@
         - Try all 4 directions (up, down, left, right) for each character match.
 
     Time Complexity:
-        - O(m*n*4^L) where L = length of the word, and m*n = matrix size
+        - O(m*n*4^l) where l = length of the word, and m*n = matrix size
 
     Space Complexity:
-        - O(L) recursion stack, where L = length of the word
+        - O(l) recursion stack, where L = length of the word
 
     Author: Vishal Singhaniya
 */
