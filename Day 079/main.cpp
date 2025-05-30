@@ -14,7 +14,7 @@
         - O(m*n*4^l) where l = length of the word, and m*n = matrix size
 
     Space Complexity:
-        - O(l) recursion stack, where l = length of the word
+        - O(l) recursion stack, where l = length of the word.
 
     Author: Vishal Singhaniya
 */
