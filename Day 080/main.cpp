@@ -11,7 +11,7 @@
         - Traverse children of all nodes at the current level and enqueue them for the next level.
 
     Time Complexity:
-        - O(n), where n is the total number of nodes in the tree.
+        - O(n), where n is the total number of nodes present.
 
     Space Complexity:
         - O(n), for the queue used in BFS and the result storage.
