@@ -5,7 +5,6 @@
         - Given a binary tree, print its nodes level by level (top to bottom, left to right).
         - Each level's nodes should be grouped together in a separate list.
 
-
     Approach:
         - Use a queue to perform Breadth-First Search (BFS).
         - For each level, store all nodes in a temporary vector.
