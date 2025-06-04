@@ -6,7 +6,6 @@
         - Height is defined as the number of edges in the longest path from the root node to a leaf node.
         - For an empty tree, height is considered -1.
         
-
     Approach:
         - Use recursion to find the height of the left and right subtrees.
         - The height of the current node is 1 plus the maximum height of its left and right child.
