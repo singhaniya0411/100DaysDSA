@@ -1,5 +1,5 @@
 /*
-    Title: Height of a Binary Tree
+    Title: Height of a Binary Tree.
 
     Problem Statement:
         - Given a binary tree, compute its height.
