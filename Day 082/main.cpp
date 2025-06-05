@@ -5,7 +5,6 @@
         - Given a binary tree, compute its diameter.
         - The diameter is the number of edges in the longest path between any two nodes in the tree.
         - This path may or may not pass through the root.
-
     Approach:
         - Use a recursive function to compute the height of left and right subtrees.
         - At each node, update the diameter as the sum of left and right subtree heights.
