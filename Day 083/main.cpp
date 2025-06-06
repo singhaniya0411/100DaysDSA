@@ -1,5 +1,5 @@
 /*
-    Title: Invert Binary Tree
+    Title: I
 
     Problem Statement:
         - Given the root of a binary tree, invert the tree.
