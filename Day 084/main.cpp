@@ -4,6 +4,7 @@
     Problem Statement:
         - Given the root of a Binary Search Tree (BST) and an integer k,
           return the k-th smallest element in the BST.
+          
         - BST is defined as a binary tree in which for each node:
             - left subtree contains nodes with values less than the node's value.
             - right subtree contains nodes with values greater than the node's value.
