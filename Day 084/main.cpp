@@ -1,5 +1,5 @@
 /*
-    Title: K-th Smallest Element in Binary Search Tree
+    Title: K-th Smallest Element in Binary Search Tree(BST)
 
     Problem Statement:
         - Given the root of a Binary Search Tree (BST) and an integer k,
