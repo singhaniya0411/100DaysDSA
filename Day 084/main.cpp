@@ -20,7 +20,7 @@
     Space Complexity:
         - O(h), where h is the height of the tree (recursive stack).
 
-    Author: Vishal Singhaniya.
+    Author: Vishal Singhaniya
 */
 
 #include<iostream>
