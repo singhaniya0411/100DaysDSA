@@ -60,7 +60,7 @@ int kthSmallest(Tree* root, int k) {
     return kthSmallestRec(root, k, count);
 }
 
-// Inorder traversal for reference
+// Inorder traversal for checking the output
 void inorder(Tree* root) {
     if (!root) return;
     inorder(root->left);
