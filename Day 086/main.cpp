@@ -1,6 +1,6 @@
 /*
     Title: 
-        Building Tree from Preorder and Inorder Traversal, and Printing Postorder Traversal.
+        - Building Tree from Preorder and Inorder Traversal, and Printing Postorder Traversal.
 
     Problem Statement:
         - Given two arrays representing the preorder and inorder traversal of a binary tree,
