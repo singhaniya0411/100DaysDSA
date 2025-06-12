@@ -1,5 +1,5 @@
 /*
-    Title: Maximum Path Sum in Binary .
+    Title: Maximum Path Sum in Binary
 
     Problem Statement:
         - Given the root of a binary tree, find the maximum path sum.
