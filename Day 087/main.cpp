@@ -16,7 +16,7 @@
         - O(n), where n is number of nodes.
 
     Space Complexity:
-        - O(1), no extra space used (excluding result vector)
+        - O(1), no extra space used (excluding result vector).
 
     Author: Vishal Singhaniya
 */
