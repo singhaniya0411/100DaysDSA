@@ -25,7 +25,7 @@
 #include <vector>
 using namespace std;
 
-// Tree Node Definition
+// Tree Node Definition;
 class Tree {
 public:
     int data;
