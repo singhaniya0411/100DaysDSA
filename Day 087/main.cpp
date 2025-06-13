@@ -18,7 +18,7 @@
     Space Complexity:
         - O(1), no extra space used (excluding vector).
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include <iostream>
