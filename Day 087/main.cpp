@@ -9,7 +9,7 @@
             1. If the current node has no left child → print it and move to right.
             2. Else:
                 a. Find the inorder predecessor (rightmost node in left subtree).
-                b. If predecessor's right is NULL → make it point to current (thread), move left.
+                b. If predecessor's right is NULL → make it point to current (thread,temporary), move left.
                 c. If predecessor’s right is current → break the thread, print current, move right.
 
     Time Complexity:
