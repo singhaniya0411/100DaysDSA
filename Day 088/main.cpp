@@ -1,3 +1,30 @@
+/*
+    Title: Boundary Traversal of Binary Tree
+
+    Problem Statement:
+        - Given a binary tree, perform a boundary traversal in anti-clockwise direction.
+        - The boundary includes:
+            1. The root (if not a leaf),
+            2. The left boundary (excluding leaves),
+            3. All the leaf nodes (from left to right),
+            4. The right boundary (excluding leaves, printed bottom-up).
+
+    Approach:
+        - Add root (if not a leaf).
+        - Traverse the left boundary without including leaf nodes.
+        - Traverse all leaf nodes (both left and right subtrees).
+        - Traverse the right boundary in reverse order (excluding leaf nodes).
+
+    Time Complexity:
+        - O(n), where n is the number of nodes in the tree.
+
+    Space Complexity:
+        - O(h), where h is the height of the tree (for recursion on leaves).
+
+    Author: Vishal Singhaniya
+*/
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
