@@ -3,7 +3,7 @@
 
     Problem Statement:
         - Given a binary tree, perform a boundary traversal in anti-clockwise direction.
-        - The boundary includes:
+        - The boundary includes
             1. The root (if not a leaf),
             2. The left boundary (excluding leaves),
             3. All the leaf nodes (from left to right),
