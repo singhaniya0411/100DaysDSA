@@ -21,7 +21,7 @@
     Space Complexity:
         - O(h), where h is the height of the tree (for recursion on leaves).
 
-    Author: Vishal Singhaniya.
+    Author: Vishal Singhaniya
 */
 
 
