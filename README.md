@@ -113,7 +113,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 084: K-th smallest Element in Binary Search Tree(BST).
   - Day 085: Maximum Path Sum in Binary Tree.
   - Day 086: Building tree from Preorder and Inorder Travdersl , and print Postorder Traversal.
-  - Day 087: 
+  - Day 087: Morris Inorder Traversal of Binary Trees.
 
 
 
