@@ -1,6 +1,5 @@
 /*
     Title: Lowest Common Ancestor (LCA) in a Binary Search Tree
-    
 
     Problem Statement:
         - Given the root of a Binary Search Tree (BST) and two nodes n1 and n2,
