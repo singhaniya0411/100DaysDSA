@@ -7,6 +7,7 @@
         - The LCA of two nodes is the deepest node that has both n1 and n2 as descendants.
 
     Approach:
+    
         - Start from the root and traverse the tree:
             - If both nodes are smaller than current node, move to the left.
             - If both nodes are greater than current node, move to the right.
