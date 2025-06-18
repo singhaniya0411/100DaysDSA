@@ -18,7 +18,7 @@
     Space Complexity:
         - O(1) iterative approach (no recursion stack).
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include <iostream>
