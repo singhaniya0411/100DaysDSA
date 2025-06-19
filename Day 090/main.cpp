@@ -15,7 +15,7 @@
     Space Complexity:
         - O(n), for storing the inorder traversal result.
 
-    Author: Vishal Singhaniya.
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
