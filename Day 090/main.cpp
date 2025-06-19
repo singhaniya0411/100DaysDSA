@@ -1,7 +1,6 @@
 /*
     Title: Check if there exists a Pair with Given Sum in a Binary Search Tree
     
-
     Problem Statement:
         - Given a Binary Search Tree and a target value,
           check whether there exists a pair of nodes whose sum equals the target.
