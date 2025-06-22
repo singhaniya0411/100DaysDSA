@@ -1,5 +1,5 @@
 /*
-    Title: Validate if a Binary Tree is a Binary Search Tree (BST) using Morris Traversal.
+    Title: Validate if a Binary Tree is a Binary Search Tree (BST) using Morris Traversal
 
     Problem Statement:
         - Given a binary tree, determine whether it is a valid Binary Search Tree (BST).
