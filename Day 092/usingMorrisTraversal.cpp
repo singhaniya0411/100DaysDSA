@@ -16,7 +16,7 @@
         - O(n), where n is the number of nodes in the tree.
 
     Space Complexity:
-        - O(1), Morris traversal uses constant space (no recursion, no stack).
+        - O(1), Morris traversal uses constant space (no recursion, no stack)
 
     Author: Vishal Singhaniya
 */
