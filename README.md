@@ -115,7 +115,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 086: Building tree from Preorder and Inorder Travdersl , and print Postorder Traversal.
   - Day 087: Morris Inorder Traversal of Binary Trees.
   - Day 088: Boundary Traversal of Binary Traversal
-  - Day 089: LCA (Least Common Ancestor) in BST
+  - Day 089: LCA (Least Common Ancestor) in BST.
   - Day 090: Pair Sum in given BST.
   - Day 091: Count Paths in Binary Tree with Given Sum.
   - Day 092: Validating BST.
