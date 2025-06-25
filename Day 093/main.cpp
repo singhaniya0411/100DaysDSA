@@ -5,7 +5,6 @@
         - Serialize a binary tree into a linear format using preorder traversal.
         - Deserialize the linear format back into the original binary tree.
         - Use `-1` to represent NULL nodes in the serialization.
-        
 
     Approach:
         - Serialize using recursive preorder traversal.
