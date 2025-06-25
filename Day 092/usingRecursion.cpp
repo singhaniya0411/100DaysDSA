@@ -1,5 +1,5 @@
 /*
-    Title: Validate if a Binary Tree is a Binary Search Tree (BST)
+    Title: Validate if a Binary Tree is a Binary Search Tree (BST).
 
     Problem Statement:
         - Given a binary tree, determine whether it is a valid Binary Search Tree (BST).
