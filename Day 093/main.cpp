@@ -1,5 +1,5 @@
 /*
-    Title: Serialize and Deserialize a Binary Tree.
+    Title: Serialize and Deserialize a Binary Tree
 
     Problem Statement:
         - Serialize a binary tree into a linear format using preorder traversal.
