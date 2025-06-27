@@ -121,6 +121,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 092: Validating BST.
   - Day 093: Serialize and Deserialize a Binary Tree
   - Day 094: Fixing Two Swapped Nodes in a Binary Search Tree (BST)
+
+### **12. Heaps**
   - Day 095: Find K Largest Elements in an Array
 
 
