@@ -1,5 +1,5 @@
 /*
-    Title: Fixing Two Swapped Nodes in a Binary Search Tree (BST)
+    Title: Fixing Two Swapped Nodes in a Binary Search Tree (BST).
 
     Problem Statement:
         - Given the root of a BST where exactly two nodes have been swapped by mistake,
