@@ -1,7 +1,6 @@
 /*
     Title: Merge Two Sorted Linked Lists
 
-    
     Problem Statement:
         - Given the heads of two sorted singly linked lists, merge them into one sorted linked list.
         - The merged linked list should be made by splicing together the nodes of the given lists.
