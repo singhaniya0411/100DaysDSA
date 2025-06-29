@@ -17,7 +17,7 @@
     Space Complexity:
         - O(1), since the merge is done in-place without using extra memory (besides the dummy node).
 
-    Author: Vishal Singhaniya.
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
