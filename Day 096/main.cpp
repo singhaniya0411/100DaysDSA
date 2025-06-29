@@ -11,7 +11,6 @@
         - Append the smaller node to the merged list and advance the corresponding pointer.
         - Continue until one list is exhausted, then attach the remaining nodes of the other list.
 
-
     Time Complexity:
         - O(n + m), where n and m are the lengths of the two input linked lists.
 
