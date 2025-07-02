@@ -1,5 +1,5 @@
 /*
-    Title: Running Median of a Stream (Optimized using Heaps)
+    Title: Running Median of a Stream (Optimized using Heaps).
 
     Problem Statement:
         - Given a stream of integers, return the median after every new integer is inserted.
