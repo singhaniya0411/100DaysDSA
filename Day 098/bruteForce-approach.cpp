@@ -7,6 +7,7 @@
             - Middle element when the number of elements is odd.
             - Average of two middle elements when the number of elements is even.
 
+
     Approach:
         - Maintain a temporary array and insert each new element.
         - Sort the array after each insertion to maintain order.
