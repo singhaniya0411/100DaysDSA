@@ -1,7 +1,6 @@
 /*
     Title: Running Median of a Stream
 
-
     Problem Statement:
         - Given an input stream of integers, return the median after reading each new integer.
         - Median is:
