@@ -44,8 +44,6 @@ vector<double> getMedian(vector<int> &arr) {
             result.push_back(median);
         }
     }
-
-    
     return result;
 }
 
