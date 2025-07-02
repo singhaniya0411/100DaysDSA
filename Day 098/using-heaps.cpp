@@ -8,7 +8,6 @@
             - If even: average of two middle values.
 
     Approach:
-    
         - Use two heaps:
             - Max Heap (for the smaller half of elements)
             - Min Heap (for the larger half of elements)
