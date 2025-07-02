@@ -19,8 +19,7 @@
     Space Complexity:
         - O(n): For storing the current list of elements and result.
 
-    Author: Vishal Singhaniya
-    
+    Author: Vishal Singhaniya  
 */
 
 #include<iostream>
