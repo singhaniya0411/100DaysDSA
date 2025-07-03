@@ -13,7 +13,7 @@
         - Push opening brackets into the stack.
         - For each closing bracket, check if it matches the top of the stack.
         - If any mismatch or extra closing bracket found → invalid.
-        - At the end, stack must be empty.
+        - At the end, stack must be empty
 
     Time Complexity:
         - O(n), where n is the length of the string.
