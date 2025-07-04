@@ -129,7 +129,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 098: Median of a Stream.
 
 ### **13. Stacks**
-  - Day 099: Check for 
+  - Day 099: Check for Balanced
 
 
 
