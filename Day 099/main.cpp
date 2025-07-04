@@ -1,5 +1,5 @@
 /*
-    Title: Check for Balanced Brackets
+    Title: Check for Balanced Brackets.
     
     Problem Statement:
         - Given a string containing just the characters '(', ')', '{', '}', '[' and ']',
