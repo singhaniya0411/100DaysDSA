@@ -1,5 +1,5 @@
 /*
-    Title: Longest Valid Parentheses Substring
+    Title: Longest Valid Parentheses Substring.
 
     Problem Statement:
         - Given a string containing just the characters '(' and ')',
