@@ -1,5 +1,5 @@
 /*
-    Title: Next Greater Element to the Right.
+    Title: Next Greater Element to the Right
 
     Problem Statement:
         - Given an array of integers, find the next greater element for each element in the array.
