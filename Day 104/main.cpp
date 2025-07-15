@@ -24,7 +24,7 @@
     Space Complexity:
         - O(n), for using a stack to store indices.
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include <iostream>
