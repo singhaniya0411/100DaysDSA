@@ -6,6 +6,7 @@
         - The span of the stock’s price on a given day is defined as the maximum number of consecutive days 
           just before the current day for which the price of the stock was less than or equal to its price on the current day.
 
+
     Example:
         Input:  [100, 80, 60, 70, 60, 75, 85]
         Output: [1,   1,  1,  2,  1,  4,  6]
