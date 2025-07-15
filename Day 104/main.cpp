@@ -10,7 +10,6 @@
         Input:  [100, 80, 60, 70, 60, 75, 85]
         Output: [1,   1,  1,  2,  1,  4,  6]
         
-
     Approach:
         - Use a stack to keep track of indices of days with prices greater than the current day's price.
         - For each day:
