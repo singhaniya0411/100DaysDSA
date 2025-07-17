@@ -4,6 +4,7 @@
     Problem Statement:
         - Design a special stack that supports all the standard stack operations (push, pop, peek, isEmpty)
           and an additional operation getMin() which returns the minimum element in the stack.
+          
         - All operations must be done in constant time O(1) and with O(1) extra space (excluding the stack itself).
 
     Approach:
