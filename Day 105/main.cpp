@@ -13,6 +13,7 @@
         - During pop:
             - If the popped value is less than minEle, decode the previous min using: minEle = 2*minEle - encoded
         - For peek, if top is less than minEle, return minEle (because it's encoded).
+        
 
     Time Complexity:
         - O(1) for push, pop, peek, and getMin operations.
