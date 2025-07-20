@@ -1,5 +1,5 @@
 /*
-    Title: Largest Rectangle in Histogram
+    Title: Largest Rectangle in Histogram/
 
     Problem Statement:
         - Given an array of integers representing the heights of bars in a histogram, 
