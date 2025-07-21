@@ -6,7 +6,7 @@
           find the area of the largest rectangle that can be formed within the histogram.
 
     Example:
-        Input:  [1, 2, 3, 4, 5, 6, 7, 8, 8].
+        Input:  [1, 2, 3, 4, 5, 6, 7, 8, 8]
         Output: 36
         Explanation:
             - The rectangle formed by heights [3,4,5,6,7,8] gives area 6 * 6 = 36.
