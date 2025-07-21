@@ -22,7 +22,7 @@
     Space Complexity:
         - O(1), no extra data structures used.
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include <iostream>
