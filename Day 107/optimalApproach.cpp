@@ -25,7 +25,7 @@
     Space Complexity:
         - O(n) for PSE, NSE, and result arrays.
 
-    Author: Vishal Singhaniya.
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
