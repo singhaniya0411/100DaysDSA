@@ -1,5 +1,5 @@
 /*
-    Title: Maximum of Minimums for Every Window Size (Without Stack)
+    Title: Maximum of Minimums for Every Window Size (Without Stack).
 
     Problem Statement:
         - For every window size from 1 to n in an array,
