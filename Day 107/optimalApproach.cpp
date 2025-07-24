@@ -1,5 +1,5 @@
 /*
-    Title: Maximum of Minimums for Every Window Size
+    Title: Maximum of Minimums for Every Window Size.
 
     Problem Statement:
         - Given an array `arr[]` of size `n`, for every window size `k` (1 ≤ k ≤ n),
