@@ -1,5 +1,5 @@
 /*
-    Title: Maximum of All Subarrays of Size K (Optimized O(n) Solution)
+    Title: Maximum of All Subarrays of Size K (Optimized O(n) Solution).
 
     Problem Statement:
         - Given an array of integers and an integer K, find the maximum element 
