@@ -9,7 +9,7 @@
 
     Example:
         Input:  arr = [8, 2, 4, 7], x = 4
-        Output: [2, 4].
+        Output: [2, 4]
 
     Approach:
         - Use two deques:
