@@ -1,5 +1,5 @@
 /*
-    Title: Longest Increasing Subsequence (LIS) - Length.
+    Title: Longest Increasing Subsequence (LIS) - Length
 
     Problem Statement:
         - Given an array of integers `arr` of size `n`, find the length of the 
