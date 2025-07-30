@@ -1,5 +1,5 @@
 /*
-    Title: Count Palindromic Substrings of Length ≥ 2.
+    Title: Count Palindromic Substrings of Length ≥ 2
 
     Problem Statement:
         - Given a string `s`, count the number of palindromic substrings of length 
