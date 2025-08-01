@@ -142,6 +142,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 ### **14. Queue**
   - Day 108: Maximum of All Subarrays of Size K.
   - Day 109: Longest Subarray with Absolute Difference ≤ X.
+    
+### **15. Dynamic Programming**
  
 
 
