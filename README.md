@@ -144,7 +144,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 109: Longest Subarray with Absolute Difference ≤ X.
     
 ### **15. Dynamic Programming**
-  - Day 110:
+  - Day 110: Longest Increasing Subsequence (LIS) - Length
  
 
 
