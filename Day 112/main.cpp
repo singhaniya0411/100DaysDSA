@@ -1,6 +1,6 @@
 /*
-    Title: Longest Palindromic Substring
-
+    Title: Longest Palindromic Substring.
+.
     Problem Statement:
         - Given a string `s`, find the longest substring which is a palindrome.
         - A palindrome is a sequence that reads the same forward and backward.
@@ -76,6 +76,7 @@ int main() {
     cout << "Longest Palindromic Substring: " << longestPalindrome(input) << endl;
     return 0;
 }
+
 
 
 
