@@ -146,7 +146,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 ### **15. Dynamic Programming**
   - Day 110: Longest Increasing Subsequence (LIS) - Length.
   - Day 111: Count Palindromic Substrings of Length ≥ 2.
-  - Day 112: Longest Palindrome
+  - Day 112: Longest Palindrome Substring
  
 
 
