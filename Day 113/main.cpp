@@ -1,5 +1,5 @@
 /* 
-    Title: Longest Palindromic Subsequence (LPS) - Length
+    Title: Longest Palindromic Subsequence (LPS) - Length.
 
     Problem Statement:
         - Given a string `s`, find the length of the longest subsequence that is a palindrome.
@@ -69,3 +69,4 @@ int main() {
          << longestPalinSeq(s);
     return 0;
 }
+
