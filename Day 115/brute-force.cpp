@@ -1,5 +1,5 @@
 /* 
-    Title: Stair Climbing - Count Number of Ways.
+    Title: Stair Climbing - Count Number of Ways
 
     Problem Statement:
         - Given `n` stairs, you can climb either 1 step or 2 steps at a time.
@@ -51,4 +51,5 @@ int main() {
     cout << stairClimbing(stair);
     return 0;
 }
+
 
