@@ -31,7 +31,7 @@
     Space Complexity:
         - O(n), for the DP array (can be optimized to O(1)).
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include <iostream>
@@ -56,5 +56,6 @@ int main() {
     cout << minWeight(stair);
     return 0;
 }
+
 
 
