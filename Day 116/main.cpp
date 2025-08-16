@@ -1,5 +1,5 @@
 /* 
-    Title: Minimum Cost Climbing Stairs (Dynamic Programming).
+    Title: Minimum Cost Climbing Stairs (Dynamic Programming)
 
     Problem Statement:
         - You are given an array `cost` where cost[i] is the cost of stepping on the i-th stair.
@@ -56,4 +56,5 @@ int main() {
     cout << minWeight(stair);
     return 0;
 }
+
 
