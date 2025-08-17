@@ -1,7 +1,6 @@
 /* 
     Title: 0/1 Knapsack Problem (Dynamic Programming - Memoization)
     
-
     Problem Statement:
         - You are given:
             1. An array `value[]` where value[i] represents the value of the i-th item.
@@ -83,6 +82,7 @@ int main() {
     cout << "Max value achievable: " << knapsack(capacity, value, weight) << endl;    
     return 0;
 }
+
 
 
 
