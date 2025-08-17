@@ -10,6 +10,7 @@
         - Find the maximum total value that can be obtained without exceeding the knapsack capacity.
 
     Example:
+    
         Input:
             capacity = 5
             value  = [10, 40, 30, 50]
@@ -82,3 +83,4 @@ int main() {
     cout << "Max value achievable: " << knapsack(capacity, value, weight) << endl;    
     return 0;
 }
+
