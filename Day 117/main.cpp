@@ -9,7 +9,6 @@
         - Each item can either be included **once** (0/1 property) or not at all.
         - Find the maximum total value that can be obtained without exceeding the knapsack capacity.
 
-
     Example:
         Input:
             capacity = 5
@@ -83,6 +82,7 @@ int main() {
     cout << "Max value achievable: " << knapsack(capacity, value, weight) << endl;    
     return 0;
 }
+
 
 
 
