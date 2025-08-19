@@ -1,5 +1,5 @@
  /* 
-    Title: Minimum Coin Change Problem (Dynamic Programming - Memoization).
+    Title: Minimum Coin Change Problem (Dynamic Programming - Memoization)
 
     Problem Statement:
         - You are given:
