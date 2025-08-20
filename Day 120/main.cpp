@@ -1,5 +1,5 @@
 /* 
-    Title: Minimum Jumps to Reach End of Array (Dynamic Programming - Tabulation)
+    Title: Minimum Jumps to Reach End of Array (Dynamic Programming - Tabulation).
 
     Problem Statement:
         - You are given an array `arr[]` of size `n`.
