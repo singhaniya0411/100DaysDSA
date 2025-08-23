@@ -7,6 +7,7 @@
           the sum of both subsets is equal.
 
     Example:
+    
         Input:
             arr = [1, 5, 2, 3, 5, 4]
         Output:
