@@ -1,5 +1,5 @@
 /* 
-    Title: Partition Problem (Using Subset Sum with Recursion + Memoization)
+    Title: Partition Problem (Using Subset Sum with Recursion + Memoization).
 
     Problem Statement:
         - You are given an array `arr[]` of size `n`.
