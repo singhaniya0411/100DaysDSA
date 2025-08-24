@@ -152,7 +152,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 115: Stair Climbing.
   - Day 116: Minimum Cost Climbing Stairs.
   - Day 117: 0/1 Knapsack Problem.
-  - Day 118:
+  - Day 118: Coin Change Problem
     
     
 
