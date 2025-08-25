@@ -155,7 +155,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 118: Coin Change Problem.
   - Day 119: Minimum Coin Change Problem.
   - Day 120: Minimum Jumps to reach end of the Array.
-  - Day 121: Subset Sum
+  - Day 121: Subset Sum Problem.
     
     
 
