@@ -1,6 +1,5 @@
 /* 
-    Title: Maximum Loot from Non-Adjacent Houses (House Robber Problem)
-           (Recursion + Memoization)
+    Title: Maximum Loot from Non-Adjacent Houses (House Robber Problem).
 
     Problem Statement:
         - You are given an array `arr[]` where each element represents the 
@@ -80,4 +79,5 @@ int main(){
     vector<int> prices= {10,15,20,5,60,10,80};
     cout<<"Maximum loot can be achieve is "<<maxLoot(prices);
     return 0;
+
 }
