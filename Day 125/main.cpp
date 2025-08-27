@@ -1,6 +1,6 @@
 /* 
-    Title: Maximum Loot from Non-Adjacent Houses (House Robber Problem)
-
+    Title: Maximum Loot from Non-Adjacent Houses (House Robber Problem).
+    
     Problem Statement:
         - You are given an array `arr[]` where each element represents the 
           amount of money stored in a house.
@@ -81,6 +81,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
