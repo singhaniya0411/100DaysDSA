@@ -1,5 +1,5 @@
 /* 
-    Title: Decode Ways .
+    Title: Decode Ways
 
     Problem Statement:
         - You are given a string of digits (e.g., "45121213").
