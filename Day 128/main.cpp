@@ -1,5 +1,5 @@
 /* 
-    Title: Matrix Chain Multiplication (MCM)
+    Title: Matrix Chain Multiplication (MCM).
 
     Problem Statement:
         - Given a sequence of matrices, we want to multiply them together
