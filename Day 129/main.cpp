@@ -1,5 +1,5 @@
 /* 
-    Title: Boolean Parenthesization Problem.
+    Title: Boolean Parenthesization Problem
 
     Problem Statement:
         - You are given a boolean expression consisting of operands {T, F} 
@@ -120,6 +120,7 @@ int main(){
     return 0;
     
 }
+
 
 
 
