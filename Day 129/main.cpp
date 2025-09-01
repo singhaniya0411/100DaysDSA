@@ -1,5 +1,5 @@
 /* 
-    Title: Boolean Parenthesization Problem (Recursion + Memoization)
+    Title: Boolean Parenthesization Problem.
 
     Problem Statement:
         - You are given a boolean expression consisting of operands {T, F} 
@@ -120,3 +120,4 @@ int main(){
     return 0;
     
 }
+
