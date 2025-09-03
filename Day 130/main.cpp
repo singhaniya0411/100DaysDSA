@@ -32,9 +32,6 @@
                 - If dp[j] is true AND s[j..i-1] is in dict → set dp[i] = true.
         - Finally, return dp[n] where n = length of string.
 
-    Data Structure:
-        - Use unordered_set for dictionary lookup (O(1) average).
-
     Time Complexity:
         - O(n^2), since for each index we check all possible partitions.
 
