@@ -3,8 +3,7 @@
 
     Problem Statement:
         - You are given a string `s` and a dictionary of words `dict[]`.
-        - Task: Determine if `s` can be segmented into a sequence 
-          of one or more dictionary words.
+        - Task: Determine if `s` can be segmented into a sequence of one or more dictionary words.
         - You may reuse dictionary words any number of times.
 
     Example:
