@@ -7,7 +7,6 @@
         - A subsequence does not require contiguous characters, 
           but must maintain relative order.
           
-
     Example:
         Input:
             s1 = "ABCEFGHJKL"
