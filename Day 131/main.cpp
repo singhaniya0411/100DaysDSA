@@ -1,5 +1,5 @@
 /* 
-    Title: Longest Common Subsequence (Dynamic Programming - Bottom Up)
+    Title: Longest Common Subsequence 
 
     Problem Statement:
         - You are given two strings s1 and s2.
