@@ -11,8 +11,7 @@
         Input:
             s1 = "ABCEFGHJKL"
             s2 = "CDEFGHJKLMNO"
-        Output:
-            8
+        Output: 8
         Explanation:
             - Longest Common Subsequence = "CEFGHJKL"
             - Length = 8
