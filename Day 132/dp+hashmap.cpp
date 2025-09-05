@@ -1,5 +1,5 @@
 /* 
-    Title: Longest String Chain(Using 
+    Title: Longest String Chain(Using Hashmap
 
     Problem Statement:
         - You are given a list of words.
