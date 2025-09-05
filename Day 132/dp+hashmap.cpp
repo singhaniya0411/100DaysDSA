@@ -1,5 +1,5 @@
 /* 
-    Title: Longest String Chain.
+    Title: Longest String Chain
 
     Problem Statement:
         - You are given a list of words.
