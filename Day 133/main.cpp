@@ -1,5 +1,5 @@
 /* 
-    Title: Minimum Number of Platforms (Greedy + Sorting).
+    Title: Minimum Number of Platforms (Greedy + Sorting)
 
     Problem Statement:
         - You are given two arrays:
