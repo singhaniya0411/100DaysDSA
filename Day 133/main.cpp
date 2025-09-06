@@ -6,7 +6,7 @@
             • arr[] → arrival times of trains
             • dep[] → departure times of trains
         - Task: Find the minimum number of railway platforms required so that 
-          no train has to wait
+          no train has to wait.
 
     Example:
         Input:
