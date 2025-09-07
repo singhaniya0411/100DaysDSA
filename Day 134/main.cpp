@@ -1,5 +1,5 @@
 /* 
-    Title: Activity Selection Problem (Greedy Approach).
+    Title: Activity Selection Problem (Greedy Approach)
 
     Problem Statement:
         - You are given two arrays:
