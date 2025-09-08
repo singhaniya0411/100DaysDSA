@@ -1,5 +1,5 @@
 /*
-    Title: Job Sequencing Problem (Greedy - Slot Allocation Method)
+    Title: Job Sequencing Problem 
 
     Problem Statement:
         - You are given two arrays:
