@@ -1,5 +1,5 @@
 /*
-    Title: Job Sequencing Problem with Deadlines (Greedy + Min Heap)
+    Title: Job Sequencing Problem with Deadlines (Greedy + Min Heap).
 
     Problem Statement:
         - You are given two arrays:
