@@ -40,7 +40,7 @@
         - Returns the starting station index (0-based).
         - If no complete tour is possible, returns -1.
 
-    Author: Vishal Singhaniya.
+    Author: Vishal Singhaniya
 */
 
 #include <iostream>
