@@ -1,5 +1,5 @@
 /*
-    Title: Maximum Number of Partitions of a String
+    Title: Maximum Number of Partitions of a String.
 
     Problem Statement:
         - Given a string s, partition it into as many parts as possible 
@@ -74,4 +74,5 @@ int main(){
     
     cout<<"Maximum partition of this string : "<<maxPartitions(s);
     return 0;
+
 }
