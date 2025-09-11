@@ -1,5 +1,5 @@
 /*
-    Title: Maximum Number of Partitions of a String
+    Title: Maximum Number of Partitions of a String.
 
     Problem Statement:
         - Given a string s, partition it into as many parts as possible 
@@ -76,4 +76,5 @@ int main(){
     return 0;
 
 }
+
 
