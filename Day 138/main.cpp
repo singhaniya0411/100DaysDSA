@@ -13,7 +13,7 @@
                 {0},         // Neighbors of node 1
                 {0, 4},      // Neighbors of node 2
                 {0},         // Neighbors of node 3
-                {2}          // Neighbors of node 4.
+                {2}          // Neighbors of node 4
             }
         Output:
             The DFS traversal will be : 0 2 4 3 1
@@ -79,6 +79,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
