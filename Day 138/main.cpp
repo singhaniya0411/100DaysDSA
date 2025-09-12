@@ -9,7 +9,7 @@
     Example:
         Input:
             adj = {
-                {2, 3, 1},   // Neighbors of node 0.
+                {2, 3, 1},   // Neighbors of node 0
                 {0},         // Neighbors of node 1
                 {0, 4},      // Neighbors of node 2.
                 {0},         // Neighbors of node 3.
@@ -79,6 +79,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
