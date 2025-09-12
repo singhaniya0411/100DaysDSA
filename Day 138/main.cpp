@@ -12,7 +12,7 @@
                 {2, 3, 1},   // Neighbors of node 0
                 {0},         // Neighbors of node 1
                 {0, 4},      // Neighbors of node 2
-                {0},         // Neighbors of node 3.
+                {0},         // Neighbors of node 3
                 {2}          // Neighbors of node 4.
             }
         Output:
@@ -79,6 +79,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
