@@ -1,5 +1,5 @@
 /*
-    Title: Breadth First Search (BFS) Traversal of a Graph
+    Title: Breadth First Search (BFS) Traversal of a Graph.
 
     Problem Statement:
         - Implement Breadth First Search (BFS) for a given undirected graph 
