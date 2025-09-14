@@ -1,5 +1,5 @@
 /*
-    Title: Rotten Oranges Problem (Minimum Time to Rot All Oranges).
+    Title: Rotten Oranges Problem (Minimum Time to Rot All Oranges)
 
     Problem Statement:
         - You are given a grid (n x m) where:
