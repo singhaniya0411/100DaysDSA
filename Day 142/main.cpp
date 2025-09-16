@@ -1,5 +1,5 @@
 /*
-    Title: Count Number of Islands in a Grid (DFS – 8 Directions).
+    Title: Count Number of Islands in a Grid (DFS – 8 Directions)
 
     Problem Statement:
         - You are given a 2D grid of characters:
