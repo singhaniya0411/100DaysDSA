@@ -14,8 +14,7 @@
             edges = [[1,3],[4,1],[4,0],[2,3],[5,0],[5,2]]
 
         Output:
-            The possible topological Order for this Directed Acyclic Graph :
-            4  5  1  2  0  3
+            The possible topological Order for this Directed Acyclic Graph : 4  5  1  2  0  3
 
         Explanation:
             - Indegree array is built for all vertices.
