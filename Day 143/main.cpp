@@ -11,7 +11,7 @@
     Example:
         Input:
             V = 6
-            edges = [{1,3},{4,1},{4,0},{2,3},{5,0},{5,2}]
+            edges = [[1,3],[4,1],[4,0],[2,3],[5,0],[5,2]]
 
         Output:
             The possible topological Order for this Directed Acyclic Graph :
