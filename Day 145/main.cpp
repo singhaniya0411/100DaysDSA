@@ -10,16 +10,10 @@
     Example:
         Input:
             V = 5
-            edges = {
-                        {0,1},
-                        {1,4},
-                        {4,3},
-                        {4,2},
-                        {2,3}
-                    }
+            edges = {{0,1},{1,4},{4,3},{4,2},{2,3}}
 
         Output:
-            1 4
+            {1 ,4}
 
         Explanation:
             - Removing node 1 or node 4 disconnects the graph,
@@ -141,3 +135,4 @@ int main() {
     
     return 0;
 }
+
