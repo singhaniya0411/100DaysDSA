@@ -11,7 +11,7 @@
             houses = {{0,0}, {1,3}, {3,3}, {0,3}}
 
         Output:
-            Minimum cost = 8
+            Minimum cost = 6
 
         Explanation:
             - Connect houses (0,0) → (0,3) → (1,3) → (3,3)
