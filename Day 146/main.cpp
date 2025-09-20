@@ -6,7 +6,7 @@
         - The cost of connecting two houses is the Manhattan distance between them.
         - Find the minimum cost to connect all houses such that the city becomes fully connected.
 
-    Example:
+    Example
         Input:
             houses = {{0,0}, {1,3}, {3,3}, {0,3}}
 
