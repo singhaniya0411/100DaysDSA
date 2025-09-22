@@ -1,5 +1,5 @@
 /*
-    Title: Flood Fill Algorithm (DFS Approach).
+    Title: Flood Fill Algorithm (DFS Approach)
 
     Problem Statement:
         - Given a 2D image (matrix of integers), each integer represents a pixel color.
