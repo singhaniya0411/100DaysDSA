@@ -1,5 +1,5 @@
 /*
-    Title: Flood Fill Algorithm.
+    Title: Flood Fill Algorithm
 
     Problem Statement:
         - Given a 2D image (matrix of integers), each integer represents a pixel color.
