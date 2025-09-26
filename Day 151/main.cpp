@@ -1,5 +1,5 @@
 /*
-    Title: Bellman-Ford Algorithm.
+    Title: Bellman-Ford Algorithm
 
     Problem Statement:
         - You are given a weighted directed graph with V vertices and a list of edges.
