@@ -25,14 +25,6 @@
         Output:
             Shortest path from 0 vertex : 0  5  6  7  7
 
-    Dry Run:
-        - Initialize dist = [0, 1e8, 1e8, 1e8, 1e8].
-        - Relax edges V-1 = 4 times:
-            Iteration 1: dist[1]=5, dist[3]=7, dist[2]=6, dist[4]=7.
-            Further iterations confirm no shorter updates.
-        - No negative cycle detected.
-        - Final distances = [0, 5, 6, 7, 7].
-
     Time Complexity:
         - O(V * E), where:
             V = number of vertices,
