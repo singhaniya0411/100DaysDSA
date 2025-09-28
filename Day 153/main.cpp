@@ -1,5 +1,5 @@
 /*
-    Title: Minimum Cycle in an Undirected Weighted Graph.
+    Title: Minimum Cycle in an Undirected Weighted Graph
 
     Problem Statement:
         - You are given an undirected weighted graph with V vertices and edges.
@@ -141,3 +141,4 @@ int main(){
     return 0;
 
 }
+
