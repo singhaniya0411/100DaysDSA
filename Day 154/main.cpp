@@ -1,5 +1,5 @@
 /*
-    Title: Bipartite Graph.
+    Title: Bipartite Graph
 
     Problem Statement:
         - You are given an undirected graph represented by edges.
@@ -114,6 +114,7 @@ int main(){
         cout<<"This graph is not a Bipartite graph\n";
     }
 }
+
 
 
 
