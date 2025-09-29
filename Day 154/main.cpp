@@ -4,8 +4,7 @@
     Problem Statement:
         - You are given an undirected graph represented by edges.
         - The task is to determine whether the graph is bipartite or not.
-        - A graph is bipartite if its vertices can be divided into two sets
-          such that no two adjacent vertices belong to the same set.
+        - A graph is bipartite if its vertices can be divided into two sets such that no two adjacent vertices belong to the same set.
 
     Approach (Breadth First Search):
         1. Build the adjacency list from the given edge list.
@@ -114,6 +113,7 @@ int main(){
         cout<<"This graph is not a Bipartite graph\n";
     }
 }
+
 
 
 
