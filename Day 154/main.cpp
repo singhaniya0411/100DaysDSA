@@ -1,5 +1,5 @@
 /*
-    Title: Check if a Graph is Bipartite (BFS Approach)
+    Title: Check if a Graph is Bipartite (BFS Approach).
 
     Problem Statement:
         - You are given an undirected graph represented by edges.
@@ -114,5 +114,6 @@ int main(){
         cout<<"This graph is not a Bipartite graph\n";
     }
 }
+
 
 
