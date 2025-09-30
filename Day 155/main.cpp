@@ -26,14 +26,7 @@
 
         Output:
             "apple"
-
-    Dry Run:
-        - Insert all words into Trie.
-        - For "apple":
-            Check prefixes → "a","ap","app","appl" → all exist.
-        - Compare with "apply":
-            Both length 5, but "apple" < "apply" lexicographically → "apple" is chosen.
-
+            
     Time Complexity:
         - Insertion: O(N * L), where N = number of words, L = max word length.
         - Checking prefixes: O(N * L).
