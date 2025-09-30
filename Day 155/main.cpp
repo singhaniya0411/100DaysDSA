@@ -1,5 +1,5 @@
 /*
-    Title: Longest Word with All Prefixes (Using Trie)
+    Title: Longest Word with All Prefixes (Using Trie).
 
     Problem Statement:
         - You are given a list of words.
