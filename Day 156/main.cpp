@@ -21,6 +21,10 @@
             - Otherwise, go to the available bit path.
         4. Return the maximum XOR value found.
 
+        Input:
+            arr = {0, 1, 2, 3, 4}
+            queries = {{3, 1}, {1, 3}, {5, 6}}
+            
         Output:
             {3, 3, 7}
 
@@ -156,6 +160,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
