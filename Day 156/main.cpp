@@ -21,28 +21,8 @@
             - Otherwise, go to the available bit path.
         4. Return the maximum XOR value found.
 
-    Example:
-        Input:
-            arr = {0, 1, 2, 3, 4}
-            queries = {{3, 1}, {1, 3}, {5, 6}}
-        
-        Process:
-            - Query (3,1): only numbers <=1 → {0,1}
-                Max XOR = 3 ^ 1 = 2
-            - Query (1,3): numbers <=3 → {0,1,2,3}
-                Max XOR = 1 ^ 2 = 3
-            - Query (5,6): numbers <=6 → {0,1,2,3,4}
-                Max XOR = 5 ^ 2 = 7
-
         Output:
-            {2, 3, 7}
-
-    Dry Run:
-        - Insert all elements of arr into the Trie.
-        - For query (5,6):
-            5 → binary(101), traverse Trie:
-                Prefer opposite bits → maximize XOR.
-                Result = 7.
+            {3, 3, 7}
 
     Time Complexity:
         - Insert all numbers: O(N * log M), where M = max element.
@@ -182,6 +162,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
