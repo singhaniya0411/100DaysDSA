@@ -32,12 +32,6 @@
     Space Complexity:
         - O(N * log M) for the Trie structure.
 
-    Applications:
-        - Network routing optimizations (prefix-based).
-        - Cryptography (bitwise operations).
-        - Competitive programming problems involving XOR.
-        - Search optimizations with constraints.
-
     Author: Vishal Singhaniya
 */
 
@@ -162,6 +156,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
