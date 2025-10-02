@@ -1,5 +1,5 @@
 /*
-    Title: Total Hamming Distance Between All Pairs.
+    Title: Total Hamming Distance Between All Pairs
 
     Problem Statement:
         - You are given an array of integers.
