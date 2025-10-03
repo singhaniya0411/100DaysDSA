@@ -1,5 +1,5 @@
 /*
-    Title: Generate All Subsets of a Set (Power Set)
+    Title: Generate All Subsets of a Set 
 
     Problem Statement:
         - You are given an array of integers.
