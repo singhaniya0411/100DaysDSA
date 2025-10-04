@@ -1,5 +1,5 @@
 /*
-    Title: Sum of XOR of All Subsets
+    Title: Sum of XOR of All Subsets.
 
     Problem Statement:
         - You are given an array of integers.
@@ -71,3 +71,4 @@ int main(){
     cout << "Sum of all subset XOR is : " << xorSum;
     return 0;
 }
+
