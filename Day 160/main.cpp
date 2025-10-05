@@ -1,5 +1,5 @@
 /*
-    Title: Missing Number in an Array using XOR
+    Title: Missing Number in an Array using XOR.
 
     Problem Statement:
         - You are given an array containing 'n-1' distinct numbers from 1 to n.
