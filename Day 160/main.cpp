@@ -1,4 +1,4 @@
-./*
+/*
     Title: Missing Number in an Array using XOR
 
     Problem Statement:
