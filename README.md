@@ -165,7 +165,8 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 128: Matrix Chain Multiplication.
   - Day 129: Boolean Parenthesization Problem.
   - Day 130: Word Break Problem.
-  - Day 131: 
+  - Day 131:
+  - Day 132: Longest String Chain.
     
 
  
