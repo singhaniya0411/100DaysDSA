@@ -158,7 +158,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
   - Day 121: Subset Sum Problem.
   - Day 122: Partition Problem.
   - Day 123: Best time to buy and sell stock.
-  - Day 124:
+  - Day 124: Best time to buy and sell stock with at most 2 transaction.
   - Day 125:
   - Day 126:
   - Day 127:
