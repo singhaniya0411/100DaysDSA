@@ -1,5 +1,5 @@
 /*
-    Title: Split Array into Three Equal Sum Parts.
+    Title: Split Array into Three Equal Sum Parts
 
     Problem Statement:
         - You are given an integer array 'arr'.
@@ -122,3 +122,4 @@ int main() {
     return 0;
 
 }
+
