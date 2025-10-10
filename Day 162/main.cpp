@@ -2,8 +2,7 @@
     Title: Longest Subarray with At Most K Zero Flips
 
     Problem Statement:
-        - Given a binary array (0/1) and an integer k,
-          you may flip at most k zeros to ones.
+        - Given a binary array (0/1) and an integer k, you may flip at most k zeros to ones.
         - Find the maximum length of a contiguous subarray containing only 1s after at most k flips.
 
     Approach (Sliding Window):
