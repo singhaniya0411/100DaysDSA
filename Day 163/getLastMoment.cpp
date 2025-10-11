@@ -1,5 +1,5 @@
 /*
-    Title: Last Moment Before All Ants Fall Off a Plank.
+    Title: Last Moment Before All Ants Fall Off a Plank
 
     Problem Statement:
         - A number of ants are walking on a plank of length `n`.
