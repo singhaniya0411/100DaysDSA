@@ -36,10 +36,10 @@
             Last moment until all ants fall from plank : 4
 
     Time Complexity:
-        - O(L + R), where L = number of left-moving ants, R = number of right-moving ants.
+        - O(L + R), where L = number of left-moving ants, R = number of right-moving ants
 
     Space Complexity:
-        - O(1), constant auxiliary space.
+        - O(1), constant auxiliary space
 
     Author: Vishal Singhaniya
 */
