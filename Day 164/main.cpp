@@ -1,5 +1,5 @@
 /*
-    Title: CamelCase Pattern Matching
+    Title: CamelCase Pattern Matching.
     
     Problem Statement:
         - You are given a list of words in CamelCase format (like "HiTechCity", "HelloWorld", etc.).
