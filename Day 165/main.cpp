@@ -1,5 +1,5 @@
 /*
-    Title: Sentence Palindrome 
+    Title: Sentence Palindrome
 
     Problem Statement:
         - Given a sentence (string) that may contain letters, digits, spaces, and special symbols.
