@@ -16,7 +16,7 @@
 
     Example:
         Input:
-            s = "ABC $. def01ASDF".
+            s = "ABC $. def01ASDF"
         
         Process:
             - Filtered alphanumeric: "ABCdef01ASDF"
