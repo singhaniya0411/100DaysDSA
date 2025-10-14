@@ -1,5 +1,5 @@
 /*
-    Title: Sentence Palindrome Checker (Ignoring Non-Alphanumeric Characters)
+    Title: Sentence Palindrome Checker
 
     Problem Statement:
         - Given a sentence (string) that may contain letters, digits, spaces, and special symbols.
