@@ -5,7 +5,7 @@
         - Given a sentence (string) that may contain letters, digits, spaces, and special symbols.
         - Check whether the sentence is a palindrome or not.
         - Ignore non-alphanumeric characters (e.g., spaces, punctuation, symbols).
-        - Comparison should be case-insensitive
+        - Comparison should be case-insensitive.
 
     Approach:
         1. Use two pointers: `i` (start) and `j` (end).
