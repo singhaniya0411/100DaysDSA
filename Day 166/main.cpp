@@ -1,5 +1,5 @@
 /*
-    Title: Convert Integer to English Words.
+    Title: Convert Integer to English Words
 
     Problem Statement:
         - Given a non-negative integer `n`, convert it into its equivalent English words.
