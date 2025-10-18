@@ -1,5 +1,5 @@
 /*
-    Title: Longest Prefix which is also a Suffix (LPS)
+    Title: Longest Prefix which is also a Suffix (LPS).
 
     Problem Statement:
         - Given a string `s`, find the length of the longest proper prefix 
@@ -69,6 +69,7 @@ int main(){
     cout << "Length of longest prefix which is also a suffix is : " << getLPSLength(s);
     return 0;
 }
+
 
 
 
