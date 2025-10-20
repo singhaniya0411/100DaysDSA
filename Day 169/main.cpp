@@ -1,5 +1,5 @@
 /*
-    Title: Minimum Sum from Two Numbers Formed by Array Digits.
+    Title: Minimum Sum from Two Numbers Formed by Array Digits
 
     Problem Statement:
         - Given an array of digits (0–9), form two numbers such that their sum is minimized.
