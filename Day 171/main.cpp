@@ -1,5 +1,5 @@
 /*
-    Title: Form the Largest Number from an Array of Integers
+    Title: Form the Largest Number from an Array of Integers.
 
     Problem Statement:
         - Given an array of non-negative integers, arrange them such that they form the largest possible number.
@@ -75,3 +75,4 @@ int main() {
     cout << "Largest number that can be formed from the given array is " << largestNumber(arr);
     return 0;
 }
+
