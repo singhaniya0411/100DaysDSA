@@ -26,12 +26,6 @@
         Output:
             ✅ Largest number formed = "9908674543"
 
-    Dry Run:
-        arr = {10, 2}
-        Strings: {"10", "2"}
-        Compare: ("210" > "102") → "2" comes first
-        Result: "210"
-
     Time Complexity:
         - Sorting: O(N log N) comparisons, each taking up to O(K) (K = average string length)
         - Overall: O(N log N * K)
@@ -75,6 +69,7 @@ int main() {
     cout << "Largest number that can be formed from the given array is " << largestNumber(arr);
     return 0;
 }
+
 
 
 
