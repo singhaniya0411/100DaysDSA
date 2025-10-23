@@ -1,5 +1,5 @@
 /*
-    Title: Find Lower Bound Index using Binary Search.
+    Title: Find Lower Bound Index using Binary Search
 
     Problem Statement:
         - Given a sorted array `arr` and a target value `target`,
@@ -70,6 +70,7 @@ int main() {
     
     return 0;
 }
+
 
 
 
