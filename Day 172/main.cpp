@@ -1,5 +1,5 @@
 /*
-    Title: Minimum Increments to Make Array Elements Unique.
+    Title: Minimum Increments to Make Array Elements Unique
 
     Problem Statement:
         - Given an integer array, make all elements unique by performing the minimum number of increment operations.
@@ -78,4 +78,5 @@ int main() {
     
     return 0;
 }
+
 
