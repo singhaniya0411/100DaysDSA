@@ -1,5 +1,5 @@
 /*
-    Title: Find Bitonic Point in an Array..
+    Title: Find Bitonic Point in an Array...
 
     Problem Statement:
         - A **bitonic array** first increases and then decreases.
@@ -76,5 +76,6 @@ int main() {
 
     return 0;
 }
+
 
 
