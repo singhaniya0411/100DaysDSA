@@ -25,7 +25,7 @@
             - 800 is the peak (bitonic point).
         
         Output:
-            ✅ The bitonic point of the array is 800
+            ✅ The bitonic point of the array is 800.
 
     Time Complexity:
         - O(log N): Binary search on the array.
@@ -76,6 +76,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
