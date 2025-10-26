@@ -21,7 +21,7 @@
             mid = 13 → 4*4=16 <=17 ✔ (res=4)
             mid = 15 → 5*5=25 >17 ❌ (move left)
         Output:
-            ✅ Floor square root = 4
+            ✅ Floor square root = 4.
 
     Time Complexity:
         - O(log N): Binary search reduces the search space by half each step.
@@ -57,6 +57,7 @@ int main() {
     cout << "The floor square root of " << n << " is: " << floorSqrt(n) << "\n";
     return 0;
 }
+
 
 
 
