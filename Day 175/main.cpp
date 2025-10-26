@@ -1,5 +1,5 @@
 /*
-    Title: Find Floor Square Root Using Binary Search.
+    Title: Find Floor Square Root Using Binary Search
 
     Problem Statement:
         - Given a non-negative integer `n`, find the **floor value** of its square root.
@@ -57,6 +57,7 @@ int main() {
     cout << "The floor square root of " << n << " is: " << floorSqrt(n) << "\n";
     return 0;
 }
+
 
 
 
