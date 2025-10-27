@@ -1,5 +1,5 @@
 /*
-    Title: Koko Eating Bananas – Minimum Eating Speed (Binary Search).
+    Title: Koko Eating Bananas – Minimum Eating Speed (Binary Search)
 
     Problem Statement:
         - Koko loves bananas and has several piles represented by an array `arr`.
@@ -75,6 +75,7 @@ int main() {
          << k << " hours : " << kokoEatBanana(arr, k);
     return 0;
 }
+
 
 
 
