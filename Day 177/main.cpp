@@ -1,5 +1,6 @@
 /*
-    Title: Minimum Days to Make M Bouquets
+    Title: Minimum Days to Make M Bouquets.
+    
 
     Problem Statement:
         - You are given an array `arr[]` where `arr[i]` represents the day on which the i-th flower blooms.
