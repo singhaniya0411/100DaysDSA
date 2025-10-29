@@ -1,5 +1,5 @@
 /*
-    Title: Median of Two Sorted Arrays .
+    Title: Median of Two Sorted Arrays
 
     Problem Statement:
         - You are given two sorted arrays `a[]` and `b[]` of sizes `n` and `m`.
@@ -89,5 +89,6 @@ int main() {
 
     return 0;
 }
+
 
 
