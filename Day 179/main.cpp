@@ -31,12 +31,6 @@
                   [6, 5, 4],
                   [3, 2, 1] ]
 
-    Dry Run (n=3):
-        i=0, j=0 → swap(1, 9)
-        i=0, j=1 → swap(2, 8)
-        i=0, j=2 → swap(3, 7)
-        (middle row reversed for odd n)
-
     Time Complexity:  O(N²)
     Space Complexity: O(1)
 
@@ -90,6 +84,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
