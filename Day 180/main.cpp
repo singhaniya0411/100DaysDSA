@@ -19,7 +19,9 @@
         - Continue until all elements are placed
 
     Time Complexity:  O(N*M)
-    Space Complexity: O(N*M)
+    Space Complexity: O(1)
+
+    Author: Vishal Singhaniya
 */
 
 #include <bits/stdc++.h>
@@ -74,6 +76,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
