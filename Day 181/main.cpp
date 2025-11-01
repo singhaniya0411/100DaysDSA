@@ -1,5 +1,5 @@
 /*
-    Title: Generate Matrix from Row and Column Sums.
+    Title: Generate Matrix from Row and Column Sums
 
     Problem Statement:
         - You are given two arrays: `rowSum` (size m) and `colSum` (size n).
@@ -86,4 +86,5 @@ int main() {
     
     return 0;
 }
+
 
