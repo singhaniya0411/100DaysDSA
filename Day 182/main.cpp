@@ -1,5 +1,6 @@
 /*
     Title: Minimum Operations to Make Matrix Beautiful
+    
 
     Problem Statement:
         - You are given a square matrix `mat` of size n × n.
@@ -92,6 +93,7 @@ int main() {
     
     return 0;
 }
+
 
 
 
