@@ -37,9 +37,6 @@
     Space Complexity:
         - O(1), using only a few variables for calculations.
 
-    Applications:
-        - Used in matrix normalization, game design, and data balancing problems.
-
     Author: Vishal Singhaniya
 */
 
@@ -95,3 +92,4 @@ int main() {
     
     return 0;
 }
+
