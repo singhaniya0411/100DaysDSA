@@ -34,9 +34,6 @@
     Space Complexity:
         - O(1): No extra space used apart from variables.
 
-    Applications:
-        - Used in subset-sum, triplet-finding, and combination optimization problems.
-
     Author: Vishal Singhaniya
 */
 
@@ -80,6 +77,7 @@ int main() {
     }
     return 0;
 }
+
 
 
 
