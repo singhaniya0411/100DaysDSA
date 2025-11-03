@@ -1,5 +1,6 @@
 /*
     Title: Minimum Operations to Make Matrix Beautiful
+    
     Problem Statement:
         - You are given a square matrix `mat` of size n × n.
         - A matrix is called "beautiful" if all rows and columns have equal sums.
@@ -91,6 +92,7 @@ int main() {
     
     return 0;
 }
+
 
 
 
