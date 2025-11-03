@@ -1,5 +1,5 @@
 /*
-    Title: Triplet Sum in Array
+    Title: Triplet Sum in Array.
 
     Problem Statement:
         - Given an array `arr` of integers and a target value `target`,
@@ -80,3 +80,4 @@ int main() {
     }
     return 0;
 }
+
