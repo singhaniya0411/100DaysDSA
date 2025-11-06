@@ -15,7 +15,7 @@
         5. For every valid window (where `k >= 0`),
            all subarrays ending at `right` contribute `(right - left + 1)` to the result.
 
-    Dry Run Example:
+    Example:
         Input:
             arr = [1, 2, 1, 2, 3], k = 2
         
@@ -72,3 +72,4 @@ int main() {
          << " distinct elements: " << countAtMostK(arr, k) << endl;
     return 0;
 }
+
