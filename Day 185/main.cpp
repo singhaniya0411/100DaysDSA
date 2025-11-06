@@ -26,7 +26,7 @@
         - O(n): Each element is visited at most twice (once by right, once by left)
 
     Space Complexity:
-        - O(n): For the frequency map.
+        - O(n): For the frequency map
 
     Author: Vishal Singhaniya
 */
@@ -72,5 +72,6 @@ int main() {
          << " distinct elements: " << countAtMostK(arr, k) << endl;
     return 0;
 }
+
 
 
