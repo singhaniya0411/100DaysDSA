@@ -1,5 +1,5 @@
 /*
-    Title: Count Subarrays with At Most K Distinct Integers.
+    Title: Count Subarrays with At Most K Distinct Integers
 
     Problem Statement:
         - Given an integer array `arr` and an integer `k`,
@@ -72,6 +72,7 @@ int main() {
          << " distinct elements: " << countAtMostK(arr, k) << endl;
     return 0;
 }
+
 
 
 
