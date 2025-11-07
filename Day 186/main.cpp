@@ -1,5 +1,5 @@
 /*
-    Title: Minimum Removals to Reduce Array Sum to K (From Ends)
+    Title: Minimum Removals to Reduce Array Sum to K
 
     Problem Statement:
         Given an array `arr` and an integer `k`, 
@@ -64,3 +64,4 @@ int main() {
 
     return 0;
 }
+
