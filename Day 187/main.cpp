@@ -33,7 +33,7 @@
             (7,15) → sum=22 < 23 → move l to 5
             (9,15) → sum=24 > 23 → move r to 0
             (9,12) → sum=21 < 23 → move l to 6
-            (11,12) → sum=23 ✅ FOUND
+            (11,12) → sum=23 ✅ 
 
     Time Complexity: O(n)
     Space Complexity: O(1)
@@ -87,6 +87,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
