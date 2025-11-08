@@ -2,8 +2,8 @@
     Title: Pair Sum in a Rotated Sorted Array
 
     Problem Statement:
-        Given a sorted and rotated array, and an integer `target`, determine whether there exists a pair (arr[i], arr[j]) such that:
-                arr[i] + arr[j] == target
+        Given a sorted and rotated array, and an integer `target`, determine whether there exists a pair (arr[i], arr[j]) 
+        such that: arr[i] + arr[j] == target
 
     Example:
         arr = [12, 15, 2, 5, 7, 9, 11]
@@ -87,6 +87,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
