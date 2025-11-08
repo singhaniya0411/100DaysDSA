@@ -8,7 +8,7 @@
     Example:
         arr = [12, 15, 2, 5, 7, 9, 11]
         target = 23
-        Output: True → (12 + 11 = 23)
+        Output: True → (12 + 11 = 23).
 
     Approach (Two Pointer on Rotated Array):
         1. First find the **pivot** — the index `i` where arr[i] > arr[i+1].
@@ -87,6 +87,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
