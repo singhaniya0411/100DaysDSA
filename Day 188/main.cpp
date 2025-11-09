@@ -39,7 +39,7 @@
             k=4 (7), l=6 (10) → sum=22 < 23 → k++
             k=5 (8), l=6 (10) → sum=23 ✅ Found {2,3,8,10}
         Next combinations...
-        Final Result = { {2,3,8,10}, {2,4,7,10}, {3,4,7,9} (if 9 existed) }
+        Final Result = { {2,3,8,10}, {2,4,7,10}, {3,4,7,9} }
 
     Time Complexity: O(n³)
     Space Complexity: O(1) (excluding output vector)
@@ -114,6 +114,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
