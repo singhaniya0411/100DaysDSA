@@ -1,5 +1,5 @@
 /*
-    Title: Quadruple Sum in an Array
+    Title: Quadruple Sum in an Array.
 
     Problem Statement:
         Given an array of integers and a target value,
@@ -114,3 +114,4 @@ int main() {
 
     return 0;
 }
+
