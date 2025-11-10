@@ -5,7 +5,6 @@
         Given an array of integers and an integer K, find the total number of subarrays that contain 
         exactly K distinct integers.
         
-
     Example:
         Input:
             arr = [1, 2, 1, 2, 3]
@@ -98,5 +97,6 @@ int main() {
     
     return 0;
 }
+
 
 
