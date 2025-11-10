@@ -2,8 +2,7 @@
     Title: Count Subarrays with Exactly K Distinct Integers
 
     Problem Statement:
-        Given an array of integers and an integer K,
-        find the total number of subarrays that contain 
+        Given an array of integers and an integer K, find the total number of subarrays that contain 
         exactly K distinct integers.
 
     Example:
@@ -98,3 +97,4 @@ int main() {
     
     return 0;
 }
+
