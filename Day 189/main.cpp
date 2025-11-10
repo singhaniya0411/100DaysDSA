@@ -1,5 +1,5 @@
 /*
-    Title: Count Subarrays with Exactly K Distinct Integers
+    Title: Count Subarrays with Exactly K Distinct Integers.
 
     Problem Statement:
         Given an array of integers and an integer K, find the total number of subarrays that contain 
@@ -97,6 +97,7 @@ int main() {
     
     return 0;
 }
+
 
 
 
