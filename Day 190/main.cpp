@@ -1,5 +1,5 @@
 /*
-    Title: Roman to Decimal Conversion.
+    Title: Roman to Decimal Conversion
 
     Problem Statement:
         Given a string representing a Roman numeral,
@@ -75,3 +75,4 @@ int main(){
     return 0;
 
 }
+
