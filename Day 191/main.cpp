@@ -1,5 +1,5 @@
 /*
-    Title: Maximum Distance Between equal Elements in an Array.
+    Title: Maximum Distance Between equal Elements in an Array
 
     Problem Statement:
         Given an array of integers, find the maximum distance between two equal elements in the array.  
@@ -65,6 +65,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
