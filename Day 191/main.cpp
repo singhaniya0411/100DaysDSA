@@ -1,5 +1,5 @@
 /*
-    Title: Maximum Distance Between Equal Elements in an Array
+    Title: Maximum Distance Between Same Elements in an Array
 
     Problem Statement:
         Given an array of integers, find the maximum distance between
@@ -64,4 +64,5 @@ int main(){
     vector<int> arr= {1,2,3,2,4,9,2,6,1,8};
     cout<<"\nMaximum Distance Between Equal Elements in this Array : "<<maxDistance(arr);
     return 0;
+
 }
