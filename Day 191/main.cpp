@@ -2,8 +2,7 @@
     Title: Maximum Distance Between equal Elements in an Array
 
     Problem Statement:
-        Given an array of integers, find the maximum distance between
-        two equal elements in the array.  
+        Given an array of integers, find the maximum distance between two equal elements in the array.  
         The distance is defined as the difference between their indices.
 
     Example:
@@ -66,6 +65,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
