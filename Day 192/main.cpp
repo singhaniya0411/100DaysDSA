@@ -1,5 +1,5 @@
 /*
-    Title: Count Pairs with Given Difference (Using Hash Map).
+    Title: Count Pairs with Given Difference (Using Hash Map)
 
     Problem Statement:
         - You are given an integer array `arr` and an integer `k`.
@@ -82,4 +82,5 @@ int main() {
 
     return 0;
 }
+
 
