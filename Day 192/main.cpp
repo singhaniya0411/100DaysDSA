@@ -1,5 +1,5 @@
 /*
-    Title: Count Pairs with Given Difference
+    Title: Count Pairs with Given Difference.
     
     Problem Statement:
         - You are given an integer array `arr` and an integer `k`.
@@ -82,6 +82,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
