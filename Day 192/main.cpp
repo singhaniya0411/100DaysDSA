@@ -4,7 +4,6 @@
     Problem Statement:
         - You are given an integer array `arr` and an integer `k`.
         - Find the total number of unordered pairs (i, j) such that:
-            
                 |arr[i] - arr[j]| = k
 
         - Each valid pair should be counted only once.
@@ -82,6 +81,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
