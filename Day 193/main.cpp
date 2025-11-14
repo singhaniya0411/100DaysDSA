@@ -1,5 +1,5 @@
 /*
-    Title: Count Number of Distinct Subsets in an Array.
+    Title: Count Number of Distinct Subsets in an Array
 
     Problem Statement:
         - You are given an array of integers.
@@ -76,5 +76,6 @@ int main(){
     return 0;
 
 }
+
 
 
