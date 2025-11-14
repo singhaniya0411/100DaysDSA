@@ -1,5 +1,5 @@
 /*
-    Title: Count Number of Distinct Subsets in an Array
+    Title: Count Number of Distinct Subsets in an Array.
 
     Problem Statement:
         - You are given an array of integers.
@@ -74,4 +74,5 @@ int main(){
     vector<int> arr = {1,2,3,4,200,202,201,40,56};
     cout<<"Minimum number of subset of Consecutive numbers are "<<minSet(arr);
     return 0;
+
 }
