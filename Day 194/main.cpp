@@ -1,5 +1,5 @@
 /*
-    Title: Count Quadruples That Sum to a Target (Using Pair-Sum Hashing)
+    Title: Count Quadruples That Sum to a Target
 
     Problem Statement:
         - You are given an array of integers and a target value.
