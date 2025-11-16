@@ -50,11 +50,6 @@
     Space Complexity:
         - O(n²) in worst case for storing pair sums in the hash map.
 
-    Applications:
-        - Counting 4-sum combinations efficiently
-        - Optimized variant of 4-Sum problem
-        - Useful in hashing-based pair sum problems
-
     Author: Vishal Singhaniya
 */
 
