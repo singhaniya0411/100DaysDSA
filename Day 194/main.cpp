@@ -1,5 +1,5 @@
 /*
-    Title: Count Quadruples That Sum to a Target
+    Title: Count Quadruples That Sum to a Target.
 
     Problem Statement:
         - You are given an array of integers and a target value.
