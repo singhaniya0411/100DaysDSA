@@ -1,5 +1,5 @@
 /*
-    Title: Group Shifted Strings (Using Normalized Hashing)
+    Title: Group Shifted Strings
 
     Problem Statement:
         - You are given a list of lowercase strings.
@@ -118,4 +118,5 @@ int main(){
         cout << endl;
     }
     return 0;
+
 }
