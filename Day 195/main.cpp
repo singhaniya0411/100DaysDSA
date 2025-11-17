@@ -1,5 +1,5 @@
 /*
-    Title: Group Shifted Strings.
+    Title: Group Shifted Strings
 
     Problem Statement:
         - You are given a list of lowercase strings.
@@ -120,4 +120,5 @@ int main(){
     return 0;
 
 }
+
 
