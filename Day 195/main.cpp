@@ -62,11 +62,6 @@
     Space Complexity:
         - O(N * L) for storing grouped strings and hash map entries.
 
-    Applications:
-        - String pattern grouping
-        - Detecting rotation/shift equivalence classes
-        - Text normalization tasks
-
     Author: Vishal Singhaniya
 */
 
@@ -120,6 +115,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
