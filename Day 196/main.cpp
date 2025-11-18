@@ -1,5 +1,5 @@
 /*
-    Title: Count X-Axis Crossings in a Cumulative Sum Graph
+    Title: Count X-Axis Crossings in a Cumulative Sum Graph.
 
     Problem Statement:
         - You are given an integer array representing values added sequentially.
