@@ -1,5 +1,5 @@
 /*
-    Title: Count Subarrays With Sum Divisible by K
+    Title: Count Subarrays With Sum Divisible by K.
 
     Problem Statement:
         - Given an integer array `arr` and an integer `k`,
