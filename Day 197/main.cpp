@@ -42,7 +42,7 @@
         i=4 → sum=4 → freq[4] used 3 times → res=6  
         i=5 → sum=0 → directly divisible → res=7  
 
-        Final output = 7
+        Final output = 7.
 
     Time Complexity:
         - O(N), as every element is processed once.
