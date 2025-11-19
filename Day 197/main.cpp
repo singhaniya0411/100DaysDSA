@@ -50,11 +50,6 @@
     Space Complexity:
         - O(K) for storing frequency of remainders.
 
-    Applications:
-        - Financial analysis (finding divisible intervals)
-        - Pattern detection in time-series sums
-        - Competitive programming on subarray-sum problems
-
     Author: Vishal Singhaniya
 */
 
