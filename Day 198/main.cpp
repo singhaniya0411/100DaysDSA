@@ -39,7 +39,7 @@
         Subarr(0..1) → sum=9, divisible by 3 (length = 2)
         Subarr(0..2) → sum=15, divisible by 3 (length = 3)
         Subarr(2..4) → sum=11, not divisible
-        ...
+        ....
 
         ✅ Output: 4 (Longest valid subarray)
 
@@ -94,6 +94,7 @@ int main(){
     return 0;
 
 }
+
 
 
 
