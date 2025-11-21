@@ -1,5 +1,5 @@
 /*
-    Title: Longest Subarray with Sum Divisible by K.
+    Title: Longest Subarray with Sum Divisible by K
 
     Problem Statement:
         - Given an integer array `arr` and an integer `k`,
@@ -99,3 +99,4 @@ int main(){
     return 0;
 
 }
+
