@@ -1,5 +1,5 @@
 /*
-    Title: Longest Subarray Where Elements Greater Than k Are in Majority.
+    Title: Longest Subarray Where Elements Greater Than k Are in Majority
 
     Problem Statement:
         - You are given an integer array `arr` and an integer `k`.
@@ -127,6 +127,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
