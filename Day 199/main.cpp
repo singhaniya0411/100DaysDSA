@@ -10,7 +10,7 @@
     Example:
         Input:
             arr = [1, 2, 3, 4, 5, 3, 2]
-            k   = 3
+            k   = 3.
 
         Classification:
             <=k : [1, 2, 3, -, -, 3, 2]
@@ -127,3 +127,4 @@ int main() {
 
     return 0;
 }
+
