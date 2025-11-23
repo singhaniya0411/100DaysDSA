@@ -74,11 +74,6 @@
     Space Complexity:
         - O(C) for temp array and hash map used in the 1D routine.
 
-    Applications:
-        - Image processing (finding balanced/neutral regions).
-        - Financial and heatmap data where net sum zero regions matter.
-        - Submatrix-based optimization and DP problems.
-
     Author: Vishal Singhaniya
 */
 
@@ -157,6 +152,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
