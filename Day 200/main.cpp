@@ -7,8 +7,8 @@
           rectangular submatrix whose sum of all elements is exactly 0.
 
     Subproblems:
-        1. Find the longest subarray in 1D whose sum is 0.
-        2. Extend this idea to 2D matrices.
+        1. Find the longest subarray in 1D whose sum is 0
+        2. Extend this idea to 2D matrices
 
     Approach:
 
@@ -152,6 +152,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
