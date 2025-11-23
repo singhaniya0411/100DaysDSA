@@ -74,7 +74,7 @@
     Space Complexity:
         - O(C) for temp array and hash map used in the 1D routine.
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include <bits/stdc++.h>
@@ -152,6 +152,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
