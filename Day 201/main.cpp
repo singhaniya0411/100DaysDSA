@@ -6,6 +6,7 @@
         - The lists may or may not intersect at some point.
         - If they intersect, return the node where they merge.
         - If they do not intersect, return NULL.
+        
 
     Approach (Two Pointer Technique):
         1. Initialize two pointers:
@@ -109,6 +110,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
