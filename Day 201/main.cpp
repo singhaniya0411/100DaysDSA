@@ -7,7 +7,7 @@
         - If they intersect, return the node where they merge.
         - If they do not intersect, return NULL.
         
-    Approach (Two Pointer):
+    Approach (Two):
         1. Initialize two pointers:
             - ptr1 → head1
             - ptr2 → head2
@@ -109,6 +109,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
