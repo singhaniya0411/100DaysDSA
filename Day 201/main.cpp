@@ -45,7 +45,7 @@
     Space Complexity:
         O(1)  (Only pointers used, no extra memory)
 
-    Author: Vishal Singhaniya.
+    Author: Vishal Singhaniya
 */
 
 
@@ -109,4 +109,5 @@ int main(){
 
     return 0;
 }
+
 
