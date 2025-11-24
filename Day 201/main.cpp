@@ -23,7 +23,7 @@
                           ↘
                            7 → 8 → 9
                           ↗
-        List2:     4 → 5 → 6
+        List2:  4 → 5 → 6
 
         Intersection at Node: 7
 
@@ -45,7 +45,7 @@
     Space Complexity:
         O(1)  (Only pointers used, no extra memory)
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 
@@ -109,3 +109,4 @@ int main(){
 
     return 0;
 }
+
