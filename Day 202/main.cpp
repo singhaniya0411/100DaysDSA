@@ -1,5 +1,5 @@
 /*
-    Title: Check if a Singly Linked List is a Palindrome.
+    Title: Check if a Singly Linked List is a Palindrome
 
     Problem Statement:
         - You are given the head of a singly linked list.
@@ -154,6 +154,7 @@ int main(){
     
     return 0;
 }
+
 
 
 
