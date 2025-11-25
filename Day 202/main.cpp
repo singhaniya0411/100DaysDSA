@@ -5,7 +5,7 @@
         - You are given the head of a singly linked list.
         - Determine whether the linked list is a palindrome.
         - A list is a palindrome if the sequence of node values reads the same
-          forward and backward.
+          forward and backward..
 
     Example:
         Input:
@@ -154,6 +154,7 @@ int main(){
     
     return 0;
 }
+
 
 
 
