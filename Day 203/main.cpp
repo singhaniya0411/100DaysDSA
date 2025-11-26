@@ -1,5 +1,5 @@
 /*
-    Title: Merge K Sorted Linked Lists (Divide and Conquer)
+    Title: Merge K Sorted Linked Lists
 
     Problem Statement:
         - You are given K singly linked lists, each of which is sorted in non-decreasing order.
@@ -169,3 +169,4 @@ int main() {
 
     return 0;
 }
+
