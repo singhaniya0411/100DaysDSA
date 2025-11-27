@@ -1,5 +1,5 @@
 /*
-    Title: Flatten a Linked List (Using Min Heap).
+    Title: Flatten a Linked List (Using Min Heap)
 
     Problem Statement:
         - You are given a linked list where each node has:
@@ -165,4 +165,5 @@ int main(){
 
     return 0;
 }
+
 
