@@ -1,5 +1,5 @@
 /*
-    Title: Target Sum Combinations (Unbounded Combination Sum using Backtracking)
+    Title: Target Sum Combinations
 
     Problem Statement:
         - You are given an array of positive integers `arr` and a target sum `target`.
@@ -130,3 +130,4 @@ int main() {
     }
     return 0;
 }
+
