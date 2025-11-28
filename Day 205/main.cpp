@@ -74,7 +74,7 @@
 
     Space Complexity:
         - O(target) for recursion depth in worst case (if we keep adding 1s).
-        - Extra space for `curr` and `res` to store all valid combinations.
+        - Extra space for `curr` and `res` to store all valid combinations
 
     Author: Vishal Singhaniya
 */
@@ -130,5 +130,6 @@ int main() {
     }
     return 0;
 }
+
 
 
