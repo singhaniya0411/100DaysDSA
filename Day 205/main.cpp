@@ -9,7 +9,7 @@
 
     Example:
         Input:
-            arr    = [1, 2, 3, 4]
+            arr = [1, 2, 3, 4]
             target = 8
 
         Possible valid combinations (order may vary):
@@ -130,4 +130,5 @@ int main() {
     }
     return 0;
 }
+
 
