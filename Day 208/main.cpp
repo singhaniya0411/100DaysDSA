@@ -30,7 +30,7 @@
         - Try splits like 1.0.10.23, 10.10.2.3, 101.0.2.3, etc.
         - Each candidate part validated (leading zeros and <=255 check) before recursing / finalizing.
 
-    Time Complexity::
+    Time Complexity:
         - Upper-bounded by exploring a small constant branching factor (at most 3 choices per part),
           so practically O(1) relative to input length limits (string length <= 12 for any valid IP).
         - For longer `s`, complexity grows but valid IP formation restricts depth; typical bound O(3^4) combinations checked.
@@ -102,4 +102,5 @@ int main(){
     }
     return 0;
 }
+
 
