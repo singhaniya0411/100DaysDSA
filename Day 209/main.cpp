@@ -1,5 +1,5 @@
 /*
-    Title: Check if a Binary Tree is Symmetric (Ite
+    Title: Check if a Binary Tree is Symmetric (It
 
     Problem Statement:
         - You are given the root of a binary tree.
@@ -116,6 +116,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
