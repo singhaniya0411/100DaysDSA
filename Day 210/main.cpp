@@ -1,5 +1,5 @@
 /*
-    Title: Check if a Binary Tree is Height Balanced (Opt
+    Title: Check if a Binary Tree is Height Balanced (Op
 
     Problem Statement:
         - You are given the root of a binary tree.
