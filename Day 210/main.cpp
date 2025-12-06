@@ -1,5 +1,5 @@
 /*
-    Title: Check if a Binary Tree is Height Balanced (Optimized Approach
+    Title: Check if a Binary Tree is Height Balanced (Optimized Approac
 
     Problem Statement:
         - You are given the root of a binary tree.
