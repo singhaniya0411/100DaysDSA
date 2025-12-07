@@ -1,5 +1,5 @@
 /*
-    Title: Balance a Binary Search Tree 
+    Title: Balance a Binary Search Tree
 
     Problem Statement:
         - Given the root of a (possibly unbalanced) binary search tree (BST),
@@ -116,4 +116,5 @@ int main() {
 
     return 0;
 }
+
 
