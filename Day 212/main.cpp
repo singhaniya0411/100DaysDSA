@@ -1,5 +1,5 @@
 /*
-    Title: Count Nodes in a BST Within a Given Range [L, H]
+    Title: Count Nodes in a BST Within a Given Range [L, H].
 
     Problem Statement:
         - You are given the root of a Binary Search Tree (BST) and two integers L and H.
@@ -98,4 +98,5 @@ int main(){
     cout<<"Number of node lies in range ("<<l<<" , "<<h<<") : ";
     cout<<countNode<<"\n";
     return 0;
+
 }
