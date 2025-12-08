@@ -1,5 +1,5 @@
 /*
-    Title: Count Nodes in a BST Within a Given Range [L, H].
+    Title: Count Nodes in a BST Within a Given Range [L, H]
 
     Problem Statement:
         - You are given the root of a Binary Search Tree (BST) and two integers L and H.
@@ -100,3 +100,4 @@ int main(){
     return 0;
 
 }
+
