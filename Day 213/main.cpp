@@ -1,5 +1,5 @@
 /*
-    Title: Distribute Candies in a Binary Tree
+    Title: Distribute Candies in a Binary Tree/
 
     Problem Statement:
         - You are given a binary tree where each node contains an integer value.
