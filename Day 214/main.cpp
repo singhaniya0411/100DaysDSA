@@ -47,11 +47,6 @@
     Space Complexity:
         - O(N) for queue + map storage.
 
-    Applications:
-        - Tree column visualization
-        - Graph layout systems
-        - Hierarchical clustering
-
     Author: Vishal Singhaniya
 */
 
@@ -137,6 +132,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
