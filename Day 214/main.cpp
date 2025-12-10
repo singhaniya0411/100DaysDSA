@@ -1,5 +1,5 @@
 /*
-    Title: Vertical Order Traversal of a Binary Tree.
+    Title: Vertical Order Traversal of a Binary Tree
 
     Problem Statement:
         - Given the root of a binary tree, return its vertical order traversal.
@@ -137,4 +137,5 @@ int main() {
 
     return 0;
 }
+
 
