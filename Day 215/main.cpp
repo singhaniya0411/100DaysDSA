@@ -21,7 +21,7 @@
         - O(N), each node visited once
 
     Space Complexity:
-        - O(H) recursion stack where H is tree height.
+        - O(H) recursion stack where H is tree height
 
     Author: Vishal Singhaniya
 */
@@ -99,5 +99,6 @@ int main() {
 
     return 0;
 }
+
 
 
