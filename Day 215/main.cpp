@@ -1,5 +1,5 @@
 /*
-    Title: Minimum Vaccines for Binary Tree.
+    Title: Minimum Vaccines for Binary Tree
 
     Problem Statement:
         - Given a binary tree, place the minimum number of "vaccines" on nodes such that
@@ -99,6 +99,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
