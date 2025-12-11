@@ -18,7 +18,7 @@
         - After DFS for root, if root returns 0, increment the vaccine count.
 
     Time Complexity:
-        - O(N), each node visited once.
+        - O(N), each node visited once
 
     Space Complexity:
         - O(H) recursion stack where H is tree height.
@@ -99,4 +99,5 @@ int main() {
 
     return 0;
 }
+
 
