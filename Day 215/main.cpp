@@ -46,7 +46,7 @@ int minVaccineUtil(Node* root, int &res) {
     // If any child is not covered -> place vaccine here
     if (left == 0 || right == 0) {
         res++;
-        return 2; // has vaccine.
+        return 2; // has vaccine
     }
 
     // If any child has vaccine -> this node is covered
@@ -99,6 +99,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
