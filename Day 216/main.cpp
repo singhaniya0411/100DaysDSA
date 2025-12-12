@@ -1,5 +1,5 @@
 /*
-    Title: Top K Frequent Elements
+    Title: Top K Frequent Elements.
 
     Problem Statement:
         - Given an integer array `arr` and an integer `k`, return the `k` most frequent elements.
@@ -71,3 +71,4 @@ int main() {
 
     return 0;
 }
+
