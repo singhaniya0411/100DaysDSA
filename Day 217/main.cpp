@@ -1,5 +1,5 @@
 /*
-    Title: Minimum Number of Meeting Rooms Required.
+    Title: Minimum Number of Meeting Rooms Required
 
     Problem Statement:
         - You are given two arrays:
