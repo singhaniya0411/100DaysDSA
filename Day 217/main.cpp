@@ -51,7 +51,7 @@
     Applications:
         - Scheduling systems
         - Conference room allocation
-        - CPU task scheduling.
+        - CPU task scheduling
 
     Author: Vishal Singhaniya
 */
