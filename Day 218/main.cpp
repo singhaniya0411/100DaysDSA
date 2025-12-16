@@ -1,5 +1,5 @@
 /*
-    Title: Rearrange String So That No Two Adjacent Characters Are Same
+    Title: Rearrange String So That No Two Adjacent Characters Are Same.
 
     Problem Statement:
         - You are given a string `s` consisting of lowercase English letters.
