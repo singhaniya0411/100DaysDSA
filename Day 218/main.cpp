@@ -62,12 +62,7 @@
     Space Complexity:
         - O(k), for frequency map and priority queue.
 
-    Applications:
-        - Task scheduling with cooling period
-        - Load balancing
-        - String rearrangement problems
-
-    Author: Vishal Singhaniya
+   Author: Vishal Singhaniya
 */
 
 #include<bits/stdc++.h>
