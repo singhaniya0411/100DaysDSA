@@ -1,5 +1,5 @@
 /*
-    Title: Sort a Nearly Sorted (K-Sorted) Array Using Min Heap.
+    Title: Sort a Nearly Sorted (K-Sorted) Array Using Min Heap\
 
     Problem Statement:
         - You are given an array where each element is at most `k` positions
