@@ -1,5 +1,5 @@
 /*
-    Title: Special Stack with O(1) Maximum Retrieval
+    Title: Special Stack with O(1) Maximum Retrieval.
 
     Problem Statement:
         - Design a stack data structure that supports the following operations:
@@ -173,6 +173,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
