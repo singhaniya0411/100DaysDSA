@@ -12,8 +12,8 @@
     Approach:
         1. Push all people (0 to N-1) into a stack.
         2. Pop two people at a time:
-            - If A knows B → A cannot be celebrity.
-            - Else B cannot be celebrity.
+            - If A knows B → A cannot be a celebrity.
+            - Else B cannot be a celebrity.
         3. Push the potential candidate back.
         4. After one candidate remains, verify:
             - Candidate does not know anyone.
@@ -90,6 +90,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
