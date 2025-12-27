@@ -1,5 +1,5 @@
 /*
-    Title: Celebrity Problem (Using Stack)
+    Title: Celebrity Problem 
 
     Problem Statement:
         - You are given a matrix `mat` of size N×N.
@@ -90,3 +90,4 @@ int main() {
 
     return 0;
 }
+
