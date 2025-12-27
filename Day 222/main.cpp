@@ -4,7 +4,6 @@
     Problem Statement:
         - You are given a matrix `mat` of size N×N.
         - mat[i][j] = 1 means person `i` knows person `j`.
-        
         - A celebrity is a person who:
             1. Does NOT know anyone.
             2. Is known by everyone else.
@@ -91,6 +90,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
