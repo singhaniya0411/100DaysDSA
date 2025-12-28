@@ -41,7 +41,7 @@
         - Circular array processing
         - Monotonic stack problems
 
-    Author: Vishal Singhaniya
+    Author: Vishal Singhaniya.
 */
 
 #include<bits/stdc++.h>
@@ -78,6 +78,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
