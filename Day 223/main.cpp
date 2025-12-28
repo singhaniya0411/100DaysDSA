@@ -1,5 +1,5 @@
 /*
-    Title: Next Greater Element in Circular Array
+    Title: Next Greater Element in Circular Array.
 
     Problem Statement:
         - Given a circular array of integers, find the next greater element 
@@ -78,3 +78,4 @@ int main(){
 
     return 0;
 }
+
