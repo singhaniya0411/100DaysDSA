@@ -44,11 +44,6 @@
     Space Complexity:
         - O(n), for stacks and auxiliary arrays.
 
-    Applications:
-        - Subarray maximum/minimum problems
-        - Sliding window optimizations
-        - Histogram and monotonic stack problems
-
     Author: Vishal Singhaniya
 */
 
@@ -95,3 +90,4 @@ int main(){
     cout << "Sum of maximum elements of all subarrays: " << sumOfMax(arr) << endl;
     return 0;
 }
+
