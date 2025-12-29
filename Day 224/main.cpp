@@ -42,7 +42,7 @@
         - O(n), each element is pushed and popped once
 
     Space Complexity:
-        - O(n), for stacks and auxiliary arrays.
+        - O(n), for stacks and auxiliary arrays
 
     Author: Vishal Singhaniya
 */
@@ -90,6 +90,7 @@ int main(){
     cout << "Sum of maximum elements of all subarrays: " << sumOfMax(arr) << endl;
     return 0;
 }
+
 
 
 
