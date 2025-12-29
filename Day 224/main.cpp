@@ -1,5 +1,5 @@
 /*
-    Title: Sum of Maximum Elements of All Subarrays
+    Title: Sum of Maximum Elements of All Subarrays.
 
     Problem Statement:
         - Given an integer array `arr`, find the sum of maximum elements
@@ -90,6 +90,7 @@ int main(){
     cout << "Sum of maximum elements of all subarrays: " << sumOfMax(arr) << endl;
     return 0;
 }
+
 
 
 
