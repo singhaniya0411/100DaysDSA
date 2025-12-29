@@ -39,7 +39,7 @@
         3. Multiply contribution for each index and accumulate result.
 
     Time Complexity:
-        - O(n), each element is pushed and popped once.
+        - O(n), each element is pushed and popped once
 
     Space Complexity:
         - O(n), for stacks and auxiliary arrays.
@@ -90,6 +90,7 @@ int main(){
     cout << "Sum of maximum elements of all subarrays: " << sumOfMax(arr) << endl;
     return 0;
 }
+
 
 
 
