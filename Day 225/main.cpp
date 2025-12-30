@@ -40,11 +40,6 @@
     Space Complexity:
         - O(k), for the sliding window queue.
 
-    Applications:
-        - Bit manipulation problems
-        - Greedy optimization problems
-        - Window-based transformations
-
     Author: Vishal Singhaniya
 */
 
@@ -90,6 +85,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
