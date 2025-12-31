@@ -12,7 +12,7 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This rep
 - Day 004: Rotate an array.
 - Day 005: Next Permutation.
 - Day 006: Majority Element II
-- Day 007: Stock buy and sell - Multiple transaction allowed.
+- Day 007: Stock buy and sell - Multiple transactions allowed.
 - Day 008: Stock buy and sell - Max one transaction allowed.
 - Day 009: Minimize the heights. 
 - Day 010: Kadene's Algorithm.
