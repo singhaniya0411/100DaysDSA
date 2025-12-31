@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA)/
+# Data Structures and Algorithms (DSA)
 
 Welcome to my **Data Structures and Algorithms (DSA)** repository! 🚀 This repository contains my daily progress in mastering DSA, covering fundamental to advanced topics with coding implementations
 
