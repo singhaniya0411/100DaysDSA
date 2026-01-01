@@ -1,5 +1,5 @@
 /*
-    Title: Maximum Score from Jumping with K Distance.
+    Title: Maximum Score from Jumping with K Distance
 
     Problem Statement:
         - You are given an integer array `arr` where each element represents a score.
@@ -88,4 +88,5 @@ int main() {
     cout << "Maximum score obtainable: " << getScore(arr, k) << endl;
     return 0;
 }
+
 
